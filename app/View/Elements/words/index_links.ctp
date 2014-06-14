@@ -5,10 +5,15 @@
 	</a>
 	
 	<br>
+	<br>
 	
 	<?php echo $this->Html->link(
 					'Add Word',
-					array('controller' => 'words', 'action' => 'add'));
+					array('controller' => 'words', 'action' => 'add'),
+					array(
+							'style'	=> 'color: blue')
+	
+				);
 	?>
 	<br>
 	<br>

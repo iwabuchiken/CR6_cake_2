@@ -1001,6 +1001,9 @@ class WordsController extends AppController {
 			
 // 			debug($select_Langs);
 			
+			//REF http://www.php.net/manual/en/function.asort.php
+			asort($select_Langs);
+			
 			$this->set('select_Langs', $select_Langs);
 			
 		}//if ($this->request->is('post'))

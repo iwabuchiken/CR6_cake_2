@@ -56,7 +56,10 @@
 					array(
 						'controller' => 'texts',
 						'action' => 'edit',
-						$text['Text']['id']));
+						$text['Text']['id']),
+					array(
+						'style'	=> 'color: blue')
+			);
 // 						'id' => $text['Text']['id']));
 	?>
 	<br>

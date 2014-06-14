@@ -5,10 +5,21 @@
 	</a>
 	
 	<br>
+	<br>
 	
 	<?php echo $this->Html->link(
-					'Add Text',
-					array('controller' => 'texts', 'action' => 'add'));
+// 					"<font color='blue'>Add Text!</font>",
+					"Add Text!",
+					array(
+							'controller' => 'texts', 
+							'action' => 'add',
+// 							'style'		=> 'color: blue'
+// 							'style'		=> array('color: blue')
+							),
+					//REF http://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q1289550192
+					array(
+							'style'	=> 'color: blue')
+				);
 	?>
 	
 	<br>

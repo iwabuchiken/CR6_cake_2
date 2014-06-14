@@ -538,6 +538,8 @@ class TextsController extends AppController {
 			
 // 			debug($langs);
 			
+// 			debug($langs);
+			
 			$select_Langs = array();
 			
 			foreach ($langs as $lang) {
@@ -550,6 +552,8 @@ class TextsController extends AppController {
 			}
 			
 // 			debug($select_Langs);
+
+			asort($select_Langs);
 			
 			$this->set('select_Langs', $select_Langs);
 			
