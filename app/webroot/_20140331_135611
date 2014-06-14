@@ -1,0 +1,101 @@
+[03/31/2014 13:56:10 : app\Lib\utils\methods.php : 345] w1=演奏($line length=12)$line=729@演奏@@yan3zou4@@75@1@0@1374441331496@1374441331496@2013-07-21 21:15:31 UTC@2013-07-21 21:15:31 UTC
+[03/31/2014 13:56:10 : app\Lib\utils\methods.php : 374] saved => 演奏
+[03/31/2014 13:56:10 : app\Lib\utils\methods.php : 345] w1=风格($line length=12)$line=730@风格@style@feng1ge2@@75@1@0@1374441424377@1374441424377@2013-07-21 21:17:04 UTC@2013-07-21 21:17:04 UTC
+[03/31/2014 13:56:10 : app\Lib\utils\methods.php : 374] saved => 风格
+[03/31/2014 13:56:10 : app\Lib\utils\methods.php : 345] w1=诗人($line length=12)$line=731@诗人@@shi1ren2@@75@1@0@1374441523460@1374441523460@2013-07-21 21:18:43 UTC@2013-07-21 21:18:43 UTC
+[03/31/2014 13:56:10 : app\Lib\utils\methods.php : 374] saved => 诗人
+[03/31/2014 13:56:10 : app\Lib\utils\methods.php : 345] w1=琴键($line length=12)$line=732@琴键@@qin2jian4@@75@1@0@1374441613890@1374441613890@2013-07-21 21:20:13 UTC@2013-07-21 21:20:13 UTC
+[03/31/2014 13:56:10 : app\Lib\utils\methods.php : 374] saved => 琴键
+[03/31/2014 13:56:10 : app\Lib\utils\methods.php : 345] w1=迥异($line length=12)$line=733@迥异@まったく違う@jiong3yi4@@75@1@0@1374441704816@1374441704816@2013-07-21 21:21:44 UTC@2013-07-21 21:21:44 UTC
+[03/31/2014 13:56:10 : app\Lib\utils\methods.php : 374] saved => 迥异
+[03/31/2014 13:56:10 : app\Lib\utils\methods.php : 345] w1=墨镜($line length=12)$line=734@墨镜@サングラス@mo4jing4@@75@1@0@1374441797345@1374441797345@2013-07-21 21:23:17 UTC@2013-07-21 21:23:17 UTC
+[03/31/2014 13:56:10 : app\Lib\utils\methods.php : 374] saved => 墨镜
+[03/31/2014 13:56:10 : app\Lib\utils\methods.php : 345] w1=戴夫($line length=12)$line=735@戴夫@Dave@dai4fu0@@75@1@0@1374441933652@1374441933652@2013-07-21 21:25:33 UTC@2013-07-21 21:25:33 UTC
+[03/31/2014 13:56:10 : app\Lib\utils\methods.php : 374] saved => 戴夫
+[03/31/2014 13:56:10 : app\Lib\utils\methods.php : 345] w1=jouer($line length=12)$line=736@jouer@play@@@76@3@0@1374442491440@1374442491440@2013-07-21 21:34:51 UTC@2013-07-21 21:34:51 UTC
+[03/31/2014 13:56:10 : app\Lib\utils\methods.php : 374] saved => jouer
+[03/31/2014 13:56:10 : app\Lib\utils\methods.php : 345] w1=quartier($line length=12)$line=737@quartier@neighborhood@@@76@3@0@1374443354281@1374443354281@2013-07-21 21:49:14 UTC@2013-07-21 21:49:14 UTC
+[03/31/2014 13:56:10 : app\Lib\utils\methods.php : 374] saved => quartier
+[03/31/2014 13:56:10 : app\Lib\utils\methods.php : 345] w1=enregistrements($line length=12)$line=738@enregistrements@recording@@@77@3@0@1374443722338@1374443722338@2013-07-21 21:55:22 UTC@2013-07-21 21:55:22 UTC
+[03/31/2014 13:56:10 : app\Lib\utils\methods.php : 374] saved => enregistrements
+[03/31/2014 13:56:10 : app\Lib\utils\methods.php : 345] w1=autour($line length=12)$line=739@autour@around@@@77@3@0@1374443764894@1374443764894@2013-07-21 21:56:04 UTC@2013-07-21 21:56:04 UTC
+[03/31/2014 13:56:10 : app\Lib\utils\methods.php : 374] saved => autour
+[03/31/2014 13:56:10 : app\Lib\utils\methods.php : 345] w1=attire($line length=12)$line=740@attire@draw@:v@@77@3@0@1374444048890@1374444048890@2013-07-21 22:00:48 UTC@2013-07-21 22:00:48 UTC
+[03/31/2014 13:56:10 : app\Lib\utils\methods.php : 374] saved => attire
+[03/31/2014 13:56:10 : app\Lib\utils\methods.php : 345] w1=retournera($line length=12)$line=741@retournera@return@:v :p@@77@3@0@1374444205057@1374444205057@2013-07-21 22:03:25 UTC@2013-07-21 22:03:25 UTC
+[03/31/2014 13:56:10 : app\Lib\utils\methods.php : 374] saved => retournera
+[03/31/2014 13:56:10 : app\Lib\utils\methods.php : 345] w1=pareille($line length=12)$line=742@pareille@such@@@77@3@0@1374444247650@1374444247650@2013-07-21 22:04:07 UTC@2013-07-21 22:04:07 UTC
+[03/31/2014 13:56:10 : app\Lib\utils\methods.php : 374] saved => pareille
+[03/31/2014 13:56:10 : app\Lib\utils\methods.php : 345] w1=rejoindre($line length=12)$line=743@rejoindre@join@@@77@3@0@1374444290317@1374444290317@2013-07-21 22:04:50 UTC@2013-07-21 22:04:50 UTC
+[03/31/2014 13:56:10 : app\Lib\utils\methods.php : 374] saved => rejoindre
+[03/31/2014 13:56:10 : app\Lib\utils\methods.php : 345] w1=lors($line length=12)$line=744@lors@then@@@77@3@0@1374449271236@1374449271236@2013-07-21 23:27:51 UTC@2013-07-21 23:27:51 UTC
+[03/31/2014 13:56:10 : app\Lib\utils\methods.php : 374] saved => lors
+[03/31/2014 13:56:10 : app\Lib\utils\methods.php : 345] w1=naîtra($line length=12)$line=745@naîtra@born@:v :p.p.@@77@3@0@1374455273468@1374455273468@2013-07-22 01:07:53 UTC@2013-07-22 01:07:53 UTC
+[03/31/2014 13:56:10 : app\Lib\utils\methods.php : 374] saved => naîtra
+[03/31/2014 13:56:10 : app\Lib\utils\methods.php : 345] w1=batteur($line length=12)$line=746@batteur@drummer@@@77@3@0@1374462851727@1374462851727@2013-07-22 03:14:11 UTC@2013-07-22 03:14:11 UTC
+[03/31/2014 13:56:10 : app\Lib\utils\methods.php : 374] saved => batteur
+[03/31/2014 13:56:10 : app\Lib\utils\methods.php : 345] w1=août($line length=12)$line=747@août@August@@@77@3@0@1374462969669@1374462969669@2013-07-22 03:16:09 UTC@2013-07-22 03:16:09 UTC
+[03/31/2014 13:56:10 : app\Lib\utils\methods.php : 374] saved => août
+[03/31/2014 13:56:10 : app\Lib\utils\methods.php : 345] w1=drogue($line length=12)$line=748@drogue@drug@@@77@3@0@1374483143079@1374483143080@2013-07-22 08:52:23 UTC@2013-07-22 08:52:23 UTC
+[03/31/2014 13:56:10 : app\Lib\utils\methods.php : 374] saved => drogue
+[03/31/2014 13:56:10 : app\Lib\utils\methods.php : 345] w1=appartenir($line length=12)$line=749@appartenir@belong@@@77@3@0@1374483203235@1374483203235@2013-07-22 08:53:23 UTC@2013-07-22 08:53:23 UTC
+[03/31/2014 13:56:10 : app\Lib\utils\methods.php : 374] saved => appartenir
+[03/31/2014 13:56:10 : app\Lib\utils\methods.php : 345] w1=그것이($line length=12)$line=750@그것이@それが@@@78@7@0@1374672904733@1374672904733@2013-07-24 13:35:04 UTC@2013-07-24 13:35:04 UTC
+[03/31/2014 13:56:10 : app\Lib\utils\methods.php : 374] saved => 그것이
+[03/31/2014 13:56:10 : app\Lib\utils\methods.php : 345] w1=알고($line length=12)$line=751@알고@知り@@@78@7@0@1374672930982@1374672930982@2013-07-24 13:35:30 UTC@2013-07-24 13:35:30 UTC
+[03/31/2014 13:56:10 : app\Lib\utils\methods.php : 374] saved => 알고
+[03/31/2014 13:56:10 : app\Lib\utils\methods.php : 345] w1=싶다($line length=12)$line=752@싶다@たい@@@78@7@0@1374672941489@1374672941489@2013-07-24 13:35:41 UTC@2013-07-24 13:35:41 UTC
+[03/31/2014 13:56:10 : app\Lib\utils\methods.php : 374] saved => 싶다
+[03/31/2014 13:56:10 : app\Lib\utils\methods.php : 345] w1=충돌($line length=12)$line=753@충돌@衝突@@@78@7@0@1374673025369@1374673025369@2013-07-24 13:37:05 UTC@2013-07-24 13:37:05 UTC
+[03/31/2014 13:56:10 : app\Lib\utils\methods.php : 374] saved => 충돌
+[03/31/2014 13:56:10 : app\Lib\utils\methods.php : 345] w1=사건($line length=12)$line=754@사건@事件@@@78@7@0@1374673039233@1374673039233@2013-07-24 13:37:19 UTC@2013-07-24 13:37:19 UTC
+[03/31/2014 13:56:10 : app\Lib\utils\methods.php : 374] saved => 사건
+[03/31/2014 13:56:10 : app\Lib\utils\methods.php : 345] w1=미스터리($line length=12)$line=755@미스터리@ミステリー@@@78@7@0@1374673057559@1374673057559@2013-07-24 13:37:37 UTC@2013-07-24 13:37:37 UTC
+[03/31/2014 13:56:10 : app\Lib\utils\methods.php : 374] saved => 미스터리
+[03/31/2014 13:56:10 : app\Lib\utils\methods.php : 345] w1=의문($line length=12)$line=756@의문@疑問@@@78@7@0@1374673102303@1374673102303@2013-07-24 13:38:22 UTC@2013-07-24 13:38:22 UTC
+[03/31/2014 13:56:10 : app\Lib\utils\methods.php : 374] saved => 의문
+[03/31/2014 13:56:10 : app\Lib\utils\methods.php : 345] w1=34초($line length=12)$line=757@34초@３４秒@@@78@7@0@1374673115420@1374673115420@2013-07-24 13:38:35 UTC@2013-07-24 13:38:35 UTC
+[03/31/2014 13:56:10 : app\Lib\utils\methods.php : 374] saved => 34초
+[03/31/2014 13:56:10 : app\Lib\utils\methods.php : 345] w1=지난($line length=12)$line=758@지난@去る@@@78@7@0@1374673192968@1374673192968@2013-07-24 13:39:52 UTC@2013-07-24 13:39:52 UTC
+[03/31/2014 13:56:10 : app\Lib\utils\methods.php : 374] saved => 지난
+[03/31/2014 13:56:10 : app\Lib\utils\methods.php : 345] w1=20일($line length=12)$line=759@20일@２０日@@@78@7@0@1374673204681@1374673204682@2013-07-24 13:40:04 UTC@2013-07-24 13:40:04 UTC
+[03/31/2014 13:56:10 : app\Lib\utils\methods.php : 374] saved => 20일
+[03/31/2014 13:56:10 : app\Lib\utils\methods.php : 345] w1=방송($line length=12)$line=760@방송@放送@@@78@7@0@1374673247947@1374673247947@2013-07-24 13:40:47 UTC@2013-07-24 13:40:47 UTC
+[03/31/2014 13:56:10 : app\Lib\utils\methods.php : 374] saved => 방송
+[03/31/2014 13:56:10 : app\Lib\utils\methods.php : 345] w1=했다($line length=12)$line=761@했다@した@@@78@7@0@1374673258245@1374673258245@2013-07-24 13:40:58 UTC@2013-07-24 13:40:58 UTC
+[03/31/2014 13:56:10 : app\Lib\utils\methods.php : 374] saved => 했다
+[03/31/2014 13:56:10 : app\Lib\utils\methods.php : 345] w1=편을($line length=12)$line=762@편을@編を@@@78@7@0@1374673321556@1374673321556@2013-07-24 13:42:01 UTC@2013-07-24 13:42:01 UTC
+[03/31/2014 13:56:10 : app\Lib\utils\methods.php : 374] saved => 편을
+[03/31/2014 13:56:10 : app\Lib\utils\methods.php : 345] w1=항공기($line length=12)$line=763@항공기@航空機@@@78@7@0@1374673353190@1374673353190@2013-07-24 13:42:33 UTC@2013-07-24 13:42:33 UTC
+[03/31/2014 13:56:10 : app\Lib\utils\methods.php : 374] saved => 항공기
+[03/31/2014 13:56:10 : app\Lib\utils\methods.php : 345] w1=미국($line length=12)$line=764@미국@米国@@@78@7@0@1374673413039@1374673413039@2013-07-24 13:43:33 UTC@2013-07-24 13:43:33 UTC
+[03/31/2014 13:56:11 : app\Lib\utils\methods.php : 374] saved => 미국
+[03/31/2014 13:56:11 : app\Lib\utils\methods.php : 345] w1=샌프란시스코($line length=12)$line=765@샌프란시스코@サンフランシスコ@@@78@7@0@1374673423734@1374673423735@2013-07-24 13:43:43 UTC@2013-07-24 13:43:43 UTC
+[03/31/2014 13:56:11 : app\Lib\utils\methods.php : 374] saved => 샌프란시스코
+[03/31/2014 13:56:11 : app\Lib\utils\methods.php : 345] w1=공항($line length=12)$line=766@공항@空港@@@78@7@0@1374673510567@1374673510568@2013-07-24 13:45:10 UTC@2013-07-24 13:45:10 UTC
+[03/31/2014 13:56:11 : app\Lib\utils\methods.php : 374] saved => 공항
+[03/31/2014 13:56:11 : app\Lib\utils\methods.php : 345] w1=착륙($line length=12)$line=767@착륙@着陸@chaglyug@@78@7@0@1374673533336@1374673533336@2013-07-24 13:45:33 UTC@2013-07-24 13:45:33 UTC
+[03/31/2014 13:56:11 : app\Lib\utils\methods.php : 374] saved => 착륙
+[03/31/2014 13:56:11 : app\Lib\utils\methods.php : 345] w1=사고($line length=12)$line=768@사고@事故@@@78@7@0@1374673548423@1374673548423@2013-07-24 13:45:48 UTC@2013-07-24 13:45:48 UTC
+[03/31/2014 13:56:11 : app\Lib\utils\methods.php : 374] saved => 사고
+[03/31/2014 13:56:11 : app\Lib\utils\methods.php : 345] w1=序章($line length=12)$line=769@序章@prologue@xu4zhang1@@79@1@0@1374674307112@1374674307112@2013-07-24 13:58:27 UTC@2013-07-24 13:58:27 UTC
+[03/31/2014 13:56:11 : app\Lib\utils\methods.php : 374] saved => 序章
+[03/31/2014 13:56:11 : app\Lib\utils\methods.php : 345] w1=梵天($line length=12)$line=770@梵天@@fan4tian1@@79@1@0@1374674335485@1374674335485@2013-07-24 13:58:55 UTC@2013-07-24 13:58:55 UTC
+[03/31/2014 13:56:11 : app\Lib\utils\methods.php : 374] saved => 梵天
+[03/31/2014 13:56:11 : app\Lib\utils\methods.php : 345] w1=相传($line length=12)$line=771@相传@～だそうだ@xiang1chuan2@@79@1@0@1374674391323@1374674391323@2013-07-24 13:59:51 UTC@2013-07-24 13:59:51 UTC
+[03/31/2014 13:56:11 : app\Lib\utils\methods.php : 374] saved => 相传
+[03/31/2014 13:56:11 : app\Lib\utils\methods.php : 345] w1=广阔($line length=12)$line=772@广阔@@guang3kuo4@@79@1@0@1374674418793@1374674418793@2013-07-24 14:00:18 UTC@2013-07-24 14:00:18 UTC
+[03/31/2014 13:56:11 : app\Lib\utils\methods.php : 374] saved => 广阔
+[03/31/2014 13:56:11 : app\Lib\utils\methods.php : 345] w1=尽头($line length=12)$line=773@尽头@end@jin4tou2@@79@1@0@1374674453265@1374674453265@2013-07-24 14:00:53 UTC@2013-07-24 14:00:53 UTC
+[03/31/2014 13:56:11 : app\Lib\utils\methods.php : 374] saved => 尽头
+[03/31/2014 13:56:11 : app\Lib\utils\methods.php : 345] w1=修仙者($line length=12)$line=774@修仙者@cultivator@xiu1xian1@@79@1@0@1374674510943@1374674510943@2013-07-24 14:01:50 UTC@2013-07-24 14:01:50 UTC
+[03/31/2014 13:56:11 : app\Lib\utils\methods.php : 374] saved => 修仙者
+[03/31/2014 13:56:11 : app\Lib\utils\methods.php : 345] w1=발효시켜($line length=12)$line=775@발효시켜@発酵させて@@@80@7@0@1374940431299@1374940431299@2013-07-27 15:53:51 UTC@2013-07-27 15:53:51 UTC
+[03/31/2014 13:56:11 : app\Lib\utils\methods.php : 374] saved => 발효시켜
+[03/31/2014 13:56:11 : app\Lib\utils\methods.php : 345] w1=곡류($line length=12)$line=776@곡류@穀類@goglyu@@80@7@0@1374940473395@1374940473395@2013-07-27 15:54:33 UTC@2013-07-27 15:54:33 UTC
+[03/31/2014 13:56:11 : app\Lib\utils\methods.php : 374] saved => 곡류
+[03/31/2014 13:56:11 : app\Lib\utils\methods.php : 345] w1=증류하거나($line length=12)$line=777@증류하거나@蒸留したり@jeunglyuhageona@@80@7@0@1374940567294@1374940567294@2013-07-27 15:56:07 UTC@2013-07-27 15:56:07 UTC
+[03/31/2014 13:56:11 : app\Lib\utils\methods.php : 374] saved => 증류하거나
+[03/31/2014 13:56:11 : app\Lib\utils\methods.php : 345] w1=에탄올($line length=12)$line=778@에탄올@エタノール@etan-ol@@80@7@0@1374940616152@1374940616152@2013-07-27 15:56:56 UTC@2013-07-27 15:56:56 UTC
+[03/31/2014 13:56:11 : app\Lib\utils\methods.php : 374] saved => 에탄올
+[03/31/2014 13:56:11 : app\Lib\utils\methods.php : 345] w1=물로($line length=12)$line=779@물로@水@mullo@@80@7@0@1374940666291@1374940666292@2013-07-27 15:57:46 UTC@2013-07-27 15:57:46 UTC

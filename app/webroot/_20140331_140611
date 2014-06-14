@@ -1,0 +1,14 @@
+[03/31/2014 13:56:13 : app\Lib\utils\methods.php : 374] saved => 標註
+[03/31/2014 13:56:13 : app\Lib\utils\methods.php : 345] w1=混亂($line length=12)$line=983@混亂@@hun4luan4@@91@1@0@1377474562392@1377474562392@2013-08-25 23:49:22 UTC@2013-08-25 23:49:22 UTC
+[03/31/2014 13:56:13 : app\Lib\utils\methods.php : 374] saved => 混亂
+[03/31/2014 13:56:13 : app\Lib\utils\methods.php : 345] w1=申報($line length=12)$line=984@申報@declare@shen1bao4@@91@1@0@1377474660734@1377474660734@2013-08-25 23:51:00 UTC@2013-08-25 23:51:00 UTC
+[03/31/2014 13:56:13 : app\Lib\utils\methods.php : 374] saved => 申報
+[03/31/2014 13:56:13 : app\Controller\WordsController.php : 56] index() => starts
+[03/31/2014 13:56:13 : app\Controller\WordsController.php : 89] $lines=6/max num=100/(lines > max num) => no
+[03/31/2014 13:56:13 : app\Controller\WordsController.php : 96] $lines=6/max num=100/(lines > max num) => no
+[03/31/2014 14:01:25 : app\Controller\WordsController.php : 56] index() => starts
+[03/31/2014 14:01:25 : app\Controller\WordsController.php : 89] $lines=9/max num=100/(lines > max num) => no
+[03/31/2014 14:01:25 : app\Controller\WordsController.php : 96] $lines=9/max num=100/(lines > max num) => no
+[03/31/2014 14:03:03 : app\Controller\WordsController.php : 56] index() => starts
+[03/31/2014 14:03:03 : app\Controller\WordsController.php : 93] $lines=12/max num=100/(lines > max num) => no/dpath=C:\WORKS\WS\Cake\PHP_server\CR6_cake\lib\log/fpath=C:\WORKS\WS\Cake\PHP_server\CR6_cake\lib\log\log.txt
+[03/31/2014 14:03:03 : app\Controller\WordsController.php : 100] $lines=12/max num=100/(lines > max num) => no/dpath=C:\WORKS\WS\Cake\PHP_server\CR6_cake\lib\log/fpath=C:\WORKS\WS\Cake\PHP_server\CR6_cake\lib\log\log.txt

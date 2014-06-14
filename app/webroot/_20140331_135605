@@ -1,0 +1,101 @@
+[03/31/2014 13:56:05 : app\Lib\utils\methods.php : 374] saved => 拼寫
+[03/31/2014 13:56:05 : app\Lib\utils\methods.php : 345] w1=拼音($line length=12)$line=276@拼音@@ping1yin1@@37@1@0@1367883939311@1367883939311@2013-05-06 23:45:39 UTC@2013-05-06 23:45:39 UTC
+[03/31/2014 13:56:05 : app\Lib\utils\methods.php : 374] saved => 拼音
+[03/31/2014 13:56:05 : app\Lib\utils\methods.php : 345] w1=病患($line length=12)$line=277@病患@patient@bing4huan4@@37@1@0@1367883966805@1367883966805@2013-05-06 23:46:06 UTC@2013-05-06 23:46:06 UTC
+[03/31/2014 13:56:05 : app\Lib\utils\methods.php : 374] saved => 病患
+[03/31/2014 13:56:05 : app\Lib\utils\methods.php : 345] w1=熟悉($line length=12)$line=278@熟悉@familiar@shu2xi1@@37@1@0@1367884010045@1367884010046@2013-05-06 23:46:50 UTC@2013-05-06 23:46:50 UTC
+[03/31/2014 13:56:05 : app\Lib\utils\methods.php : 374] saved => 熟悉
+[03/31/2014 13:56:05 : app\Lib\utils\methods.php : 345] w1=Ἐν($line length=12)$line=279@Ἐν@was@@@39@5@0@1367921251757@1367921251757@2013-05-07 10:07:31 UTC@2013-05-07 10:07:31 UTC
+[03/31/2014 13:56:05 : app\Lib\utils\methods.php : 374] saved => Ἐν
+[03/31/2014 13:56:05 : app\Lib\utils\methods.php : 345] w1=ἀρχῇ($line length=12)$line=280@ἀρχῇ@beginning@@@39@5@0@1367921289233@1367921289233@2013-05-07 10:08:09 UTC@2013-05-07 10:08:09 UTC
+[03/31/2014 13:56:05 : app\Lib\utils\methods.php : 374] saved => ἀρχῇ
+[03/31/2014 13:56:05 : app\Lib\utils\methods.php : 345] w1=Λόγος($line length=12)$line=281@Λόγος@word@@@39@5@0@1367921305813@1367921305813@2013-05-07 10:08:25 UTC@2013-05-07 10:08:25 UTC
+[03/31/2014 13:56:05 : app\Lib\utils\methods.php : 374] saved => Λόγος
+[03/31/2014 13:56:05 : app\Lib\utils\methods.php : 345] w1=καὶ($line length=12)$line=282@καὶ@and@@@39@5@0@1367921318609@1367921318609@2013-05-07 10:08:38 UTC@2013-05-07 10:08:38 UTC
+[03/31/2014 13:56:05 : app\Lib\utils\methods.php : 374] saved => καὶ
+[03/31/2014 13:56:05 : app\Lib\utils\methods.php : 345] w1=ἦν($line length=12)$line=283@ἦν@was@@@39@5@0@1367921336204@1367921336204@2013-05-07 10:08:56 UTC@2013-05-07 10:08:56 UTC
+[03/31/2014 13:56:05 : app\Lib\utils\methods.php : 374] saved => ἦν
+[03/31/2014 13:56:05 : app\Lib\utils\methods.php : 345] w1=πρὸς($line length=12)$line=284@πρὸς@with@@@39@5@0@1367921349331@1367921349331@2013-05-07 10:09:09 UTC@2013-05-07 10:09:09 UTC
+[03/31/2014 13:56:05 : app\Lib\utils\methods.php : 374] saved => πρὸς
+[03/31/2014 13:56:05 : app\Lib\utils\methods.php : 345] w1=Θεόν($line length=12)$line=285@Θεόν@God@@@39@5@0@1367921364855@1367921364855@2013-05-07 10:09:24 UTC@2013-05-07 10:09:24 UTC
+[03/31/2014 13:56:05 : app\Lib\utils\methods.php : 374] saved => Θεόν
+[03/31/2014 13:56:05 : app\Lib\utils\methods.php : 345] w1=Θεὸς($line length=12)$line=286@Θεὸς@God@@@39@5@0@1367921379365@1367921379365@2013-05-07 10:09:39 UTC@2013-05-07 10:09:39 UTC
+[03/31/2014 13:56:05 : app\Lib\utils\methods.php : 374] saved => Θεὸς
+[03/31/2014 13:56:05 : app\Lib\utils\methods.php : 345] w1=Οὗτος($line length=12)$line=287@Οὗτος@the same@@@39@5@0@1367921400398@1367921400398@2013-05-07 10:10:00 UTC@2013-05-07 10:10:00 UTC
+[03/31/2014 13:56:05 : app\Lib\utils\methods.php : 374] saved => Οὗτος
+[03/31/2014 13:56:05 : app\Lib\utils\methods.php : 345] w1=αὐτῷ($line length=12)$line=288@αὐτῷ@him@@@39@5@0@1367921513262@1367921513262@2013-05-07 10:11:53 UTC@2013-05-07 10:11:53 UTC
+[03/31/2014 13:56:05 : app\Lib\utils\methods.php : 374] saved => αὐτῷ
+[03/31/2014 13:56:05 : app\Lib\utils\methods.php : 345] w1=ζωὴ($line length=12)$line=289@ζωὴ@life@@@39@5@0@1367921527387@1367921527387@2013-05-07 10:12:07 UTC@2013-05-07 10:12:07 UTC
+[03/31/2014 13:56:05 : app\Lib\utils\methods.php : 374] saved => ζωὴ
+[03/31/2014 13:56:05 : app\Lib\utils\methods.php : 345] w1=φῶς($line length=12)$line=290@φῶς@light@@@39@5@0@1367921600909@1367921600909@2013-05-07 10:13:20 UTC@2013-05-07 10:13:20 UTC
+[03/31/2014 13:56:05 : app\Lib\utils\methods.php : 374] saved => φῶς
+[03/31/2014 13:56:05 : app\Lib\utils\methods.php : 345] w1=ἀνθρώπων($line length=12)$line=291@ἀνθρώπων@men@@@39@5@0@1367921623558@1367921623558@2013-05-07 10:13:43 UTC@2013-05-07 10:13:43 UTC
+[03/31/2014 13:56:05 : app\Lib\utils\methods.php : 374] saved => ἀνθρώπων
+[03/31/2014 13:56:05 : app\Lib\utils\methods.php : 345] w1=σκοτίᾳ($line length=12)$line=292@σκοτίᾳ@darkness@@@39@5@0@1367921701426@1367921701426@2013-05-07 10:15:01 UTC@2013-05-07 10:15:01 UTC
+[03/31/2014 13:56:05 : app\Lib\utils\methods.php : 374] saved => σκοτίᾳ
+[03/31/2014 13:56:05 : app\Lib\utils\methods.php : 345] w1=κατέλαβεν($line length=12)$line=293@κατέλαβεν@comprehend@@@39@5@0@1367921738058@1367921738058@2013-05-07 10:15:38 UTC@2013-05-07 10:15:38 UTC
+[03/31/2014 13:56:05 : app\Lib\utils\methods.php : 374] saved => κατέλαβεν
+[03/31/2014 13:56:05 : app\Lib\utils\methods.php : 345] w1=אָב($line length=12)$line=294@אָב@father@a:v@@41@6@0@1367923296107@1367923296107@2013-05-07 10:41:36 UTC@2013-05-07 10:41:36 UTC
+[03/31/2014 13:56:05 : app\Lib\utils\methods.php : 374] saved => אָב
+[03/31/2014 13:56:05 : app\Lib\utils\methods.php : 345] w1=בָּא($line length=12)$line=295@בָּא@came@:v.past.masc@@41@6@0@1367923345515@1367923345516@2013-05-07 10:42:25 UTC@2013-05-07 10:42:25 UTC
+[03/31/2014 13:56:05 : app\Lib\utils\methods.php : 374] saved => בָּא
+[03/31/2014 13:56:05 : app\Lib\utils\methods.php : 345] w1=reappraising($line length=12)$line=344@reappraising@to examine a situation or activity again@@@45@4@0@1368230444523@1368230444523@2013-05-11 00:00:44 UTC@2013-05-11 00:00:44 UTC
+[03/31/2014 13:56:05 : app\Lib\utils\methods.php : 374] saved => reappraising
+[03/31/2014 13:56:05 : app\Lib\utils\methods.php : 345] w1=分裂($line length=12)$line=345@分裂@split@fen1lie4@@46@1@0@1368350541223@1368350541223@2013-05-12 09:22:21 UTC@2013-05-12 09:22:21 UTC
+[03/31/2014 13:56:05 : app\Lib\utils\methods.php : 374] saved => 分裂
+[03/31/2014 13:56:05 : app\Lib\utils\methods.php : 345] w1=细胞($line length=12)$line=346@细胞@@xi4bao1@@46@1@0@1368350565281@1368350565281@2013-05-12 09:22:45 UTC@2013-05-12 09:22:45 UTC
+[03/31/2014 13:56:05 : app\Lib\utils\methods.php : 374] saved => 细胞
+[03/31/2014 13:56:05 : app\Lib\utils\methods.php : 345] w1=伴随着($line length=12)$line=347@伴随着@@ban4sui1zhe0@@46@1@0@1368350635161@1368350635161@2013-05-12 09:23:55 UTC@2013-05-12 09:23:55 UTC
+[03/31/2014 13:56:05 : app\Lib\utils\methods.php : 374] saved => 伴随着
+[03/31/2014 13:56:05 : app\Lib\utils\methods.php : 345] w1=문자($line length=12)$line=296@문자@文字@munja@@43@7@0@1367943641202@1367943641204@2013-05-07 16:14:32 UTC@2013-05-07 16:20:41 UTC
+[03/31/2014 13:56:05 : app\Lib\utils\methods.php : 374] saved => 문자
+[03/31/2014 13:56:05 : app\Lib\utils\methods.php : 345] w1=난독증($line length=12)$line=297@난독증@難読症@nandogjeung@@43@7@0@1367943743927@1367943743927@2013-05-07 16:22:23 UTC@2013-05-07 16:22:23 UTC
+[03/31/2014 13:56:05 : app\Lib\utils\methods.php : 374] saved => 난독증
+[03/31/2014 13:56:05 : app\Lib\utils\methods.php : 345] w1=또는($line length=12)$line=298@또는@または@ttoneun@@43@7@0@1367943793215@1367943793215@2013-05-07 16:23:13 UTC@2013-05-07 16:23:13 UTC
+[03/31/2014 13:56:05 : app\Lib\utils\methods.php : 374] saved => 또는
+[03/31/2014 13:56:05 : app\Lib\utils\methods.php : 345] w1=东亚($line length=12)$line=299@东亚@@dong1ya4@@44@1@0@1367991702350@1367991702350@2013-05-08 05:41:42 UTC@2013-05-08 05:41:42 UTC
+[03/31/2014 13:56:05 : app\Lib\utils\methods.php : 374] saved => 东亚
+[03/31/2014 13:56:05 : app\Lib\utils\methods.php : 345] w1=普遍($line length=12)$line=300@普遍@@pu3bian4@@44@1@0@1367991742551@1367991742551@2013-05-08 05:42:22 UTC@2013-05-08 05:42:22 UTC
+[03/31/2014 13:56:05 : app\Lib\utils\methods.php : 374] saved => 普遍
+[03/31/2014 13:56:05 : app\Lib\utils\methods.php : 345] w1=大胆($line length=12)$line=301@大胆@@da4dan3@@44@1@0@1367991776030@1367991776030@2013-05-08 05:42:56 UTC@2013-05-08 05:42:56 UTC
+[03/31/2014 13:56:05 : app\Lib\utils\methods.php : 374] saved => 大胆
+[03/31/2014 13:56:05 : app\Lib\utils\methods.php : 345] w1=振振有辞($line length=12)$line=302@振振有辞@いかにも理由があるかのように雄弁を振るう（北）@zhen4zhen4you3ci2@@44@1@0@1367991868232@1367991868232@2013-05-08 05:44:28 UTC@2013-05-08 05:44:28 UTC
+[03/31/2014 13:56:05 : app\Lib\utils\methods.php : 374] saved => 振振有辞
+[03/31/2014 13:56:05 : app\Lib\utils\methods.php : 345] w1=邻国($line length=12)$line=303@邻国@@lin2guo2@@44@1@0@1367991896446@1367991896446@2013-05-08 05:44:56 UTC@2013-05-08 05:44:56 UTC
+[03/31/2014 13:56:05 : app\Lib\utils\methods.php : 374] saved => 邻国
+[03/31/2014 13:56:05 : app\Lib\utils\methods.php : 345] w1=毋须($line length=12)$line=304@毋须@not required@wu2xu1@@44@1@0@1367991951769@1367991951770@2013-05-08 05:45:51 UTC@2013-05-08 05:45:51 UTC
+[03/31/2014 13:56:05 : app\Lib\utils\methods.php : 374] saved => 毋须
+[03/31/2014 13:56:05 : app\Lib\utils\methods.php : 345] w1=征得($line length=12)$line=305@征得@@zheng1de0@@44@1@0@1367991980382@1367991980382@2013-05-08 05:46:20 UTC@2013-05-08 05:46:20 UTC
+[03/31/2014 13:56:05 : app\Lib\utils\methods.php : 374] saved => 征得
+[03/31/2014 13:56:05 : app\Lib\utils\methods.php : 345] w1=说辞($line length=12)$line=306@说辞@rhetoric@shuo1ci2@@44@1@0@1367992013613@1367992013613@2013-05-08 05:46:53 UTC@2013-05-08 05:46:53 UTC
+[03/31/2014 13:56:05 : app\Lib\utils\methods.php : 374] saved => 说辞
+[03/31/2014 13:56:05 : app\Lib\utils\methods.php : 345] w1=悖离($line length=12)$line=307@悖离@deviate from@bei4li2@@44@1@0@1367992045392@1367992045392@2013-05-08 05:47:25 UTC@2013-05-08 05:47:25 UTC
+[03/31/2014 13:56:05 : app\Lib\utils\methods.php : 374] saved => 悖离
+[03/31/2014 13:56:05 : app\Lib\utils\methods.php : 345] w1=差异($line length=12)$line=308@差异@@cha1yi4@@44@1@0@1367992073797@1367992073798@2013-05-08 05:47:53 UTC@2013-05-08 05:47:53 UTC
+[03/31/2014 13:56:05 : app\Lib\utils\methods.php : 374] saved => 差异
+[03/31/2014 13:56:05 : app\Lib\utils\methods.php : 345] w1=予以($line length=12)$line=309@予以@与える@yu3yi3@@44@1@0@1367992134542@1367992134542@2013-05-08 05:48:54 UTC@2013-05-08 05:48:54 UTC
+[03/31/2014 13:56:05 : app\Lib\utils\methods.php : 374] saved => 予以
+[03/31/2014 13:56:05 : app\Lib\utils\methods.php : 345] w1=阐明($line length=12)$line=310@阐明@与える@chan3ming2@@44@1@0@1367992176109@1367992176109@2013-05-08 05:49:36 UTC@2013-05-08 05:49:36 UTC
+[03/31/2014 13:56:05 : app\Lib\utils\methods.php : 374] saved => 阐明
+[03/31/2014 13:56:05 : app\Lib\utils\methods.php : 345] w1=組成($line length=12)$line=311@組成@composition@zu3cheng2@@37@1@0@1367996206155@1367996206156@2013-05-08 06:56:08 UTC@2013-05-08 06:56:46 UTC
+[03/31/2014 13:56:05 : app\Lib\utils\methods.php : 374] saved => 組成
+[03/31/2014 13:56:05 : app\Lib\utils\methods.php : 345] w1=范围($line length=12)$line=312@范围@@fan4wei2@@44@1@0@1368020303978@1368020303979@2013-05-08 13:38:23 UTC@2013-05-08 13:38:23 UTC
+[03/31/2014 13:56:05 : app\Lib\utils\methods.php : 374] saved => 范围
+[03/31/2014 13:56:05 : app\Lib\utils\methods.php : 345] w1=稀罕($line length=12)$line=313@稀罕@rare@xi1han3@@44@1@0@1368020335711@1368020335711@2013-05-08 13:38:55 UTC@2013-05-08 13:38:55 UTC
+[03/31/2014 13:56:05 : app\Lib\utils\methods.php : 374] saved => 稀罕
+[03/31/2014 13:56:05 : app\Lib\utils\methods.php : 345] w1=载体($line length=12)$line=314@载体@carrier@zai4ti3@@44@1@0@1368020372449@1368020372449@2013-05-08 13:39:32 UTC@2013-05-08 13:39:32 UTC
+[03/31/2014 13:56:05 : app\Lib\utils\methods.php : 374] saved => 载体
+[03/31/2014 13:56:05 : app\Lib\utils\methods.php : 345] w1=正面($line length=12)$line=315@正面@positive@zheng4mian4@@44@1@0@1368020401036@1368020401036@2013-05-08 13:40:01 UTC@2013-05-08 13:40:01 UTC
+[03/31/2014 13:56:05 : app\Lib\utils\methods.php : 374] saved => 正面
+[03/31/2014 13:56:05 : app\Lib\utils\methods.php : 345] w1=自从($line length=12)$line=316@自从@since@zi4cong2@@44@1@0@1368020431405@1368020431405@2013-05-08 13:40:31 UTC@2013-05-08 13:40:31 UTC
+[03/31/2014 13:56:05 : app\Lib\utils\methods.php : 374] saved => 自从
+[03/31/2014 13:56:05 : app\Lib\utils\methods.php : 345] w1=增补($line length=12)$line=317@增补@add@zeng1bu3@@44@1@0@1368020467066@1368020467066@2013-05-08 13:41:07 UTC@2013-05-08 13:41:07 UTC
+[03/31/2014 13:56:05 : app\Lib\utils\methods.php : 374] saved => 增补
+[03/31/2014 13:56:05 : app\Lib\utils\methods.php : 345] w1=视为($line length=12)$line=318@视为@regarded as@shi4wei2@@44@1@0@1368020510544@1368020510544@2013-05-08 13:41:50 UTC@2013-05-08 13:41:50 UTC
+[03/31/2014 13:56:05 : app\Lib\utils\methods.php : 374] saved => 视为
+[03/31/2014 13:56:05 : app\Lib\utils\methods.php : 345] w1=特殊($line length=12)$line=319@特殊@@te4shu1@@44@1@0@1368020555197@1368020555197@2013-05-08 13:42:35 UTC@2013-05-08 13:42:35 UTC
+[03/31/2014 13:56:05 : app\Lib\utils\methods.php : 374] saved => 特殊
+[03/31/2014 13:56:05 : app\Lib\utils\methods.php : 345] w1=语境($line length=12)$line=320@语境@context@yu3jing4@@44@1@0@1368020576017@1368020576017@2013-05-08 13:42:56 UTC@2013-05-08 13:42:56 UTC
+[03/31/2014 13:56:05 : app\Lib\utils\methods.php : 374] saved => 语境
+[03/31/2014 13:56:05 : app\Lib\utils\methods.php : 345] w1=抹去($line length=12)$line=321@抹去@erase@mo3qu4@@44@1@0@1368020614193@1368020614193@2013-05-08 13:43:34 UTC@2013-05-08 13:43:34 UTC
+[03/31/2014 13:56:05 : app\Lib\utils\methods.php : 374] saved => 抹去

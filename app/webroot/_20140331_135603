@@ -1,0 +1,101 @@
+[03/31/2014 13:56:03 : app\Lib\utils\methods.php : 374] saved => Ratingagentur
+[03/31/2014 13:56:03 : app\Lib\utils\methods.php : 345] w1=geändert($line length=12)$line=110@geändert@changed@:v :past@@20@2@0@1367248819365@1367248819365@2013-04-29 15:20:19 UTC@2013-04-29 15:20:19 UTC
+[03/31/2014 13:56:03 : app\Lib\utils\methods.php : 374] saved => geändert
+[03/31/2014 13:56:03 : app\Lib\utils\methods.php : 345] w1=Risiko($line length=12)$line=111@Risiko@risk@@@20@2@0@1367248842048@1367248842048@2013-04-29 15:20:42 UTC@2013-04-29 15:20:42 UTC
+[03/31/2014 13:56:03 : app\Lib\utils\methods.php : 374] saved => Risiko
+[03/31/2014 13:56:03 : app\Lib\utils\methods.php : 345] w1=Bonitätsabstufung($line length=12)$line=112@Bonitätsabstufung@down grading@@@20@2@0@1367248893244@1367248893244@2013-04-29 15:21:33 UTC@2013-04-29 15:21:33 UTC
+[03/31/2014 13:56:03 : app\Lib\utils\methods.php : 374] saved => Bonitätsabstufung
+[03/31/2014 13:56:03 : app\Lib\utils\methods.php : 345] w1=wenig($line length=12)$line=113@wenig@little@:d@@20@2@0@1367248919676@1367248919676@2013-04-29 15:21:59 UTC@2013-04-29 15:21:59 UTC
+[03/31/2014 13:56:03 : app\Lib\utils\methods.php : 374] saved => wenig
+[03/31/2014 13:56:03 : app\Lib\utils\methods.php : 345] w1=betrage($line length=12)$line=114@betrage@amounts to@@@20@2@0@1367248956451@1367248956451@2013-04-29 15:22:36 UTC@2013-04-29 15:22:36 UTC
+[03/31/2014 13:56:03 : app\Lib\utils\methods.php : 374] saved => betrage
+[03/31/2014 13:56:03 : app\Lib\utils\methods.php : 345] w1=Drittel($line length=12)$line=115@Drittel@third@:n@@20@2@0@1367248987621@1367248987622@2013-04-29 15:23:07 UTC@2013-04-29 15:23:07 UTC
+[03/31/2014 13:56:03 : app\Lib\utils\methods.php : 374] saved => Drittel
+[03/31/2014 13:56:03 : app\Lib\utils\methods.php : 345] w1=teilte($line length=12)$line=116@teilte@announce@+mit@@20@2@0@1367249031821@1367249031821@2013-04-29 15:23:51 UTC@2013-04-29 15:23:51 UTC
+[03/31/2014 13:56:03 : app\Lib\utils\methods.php : 374] saved => teilte
+[03/31/2014 13:56:03 : app\Lib\utils\methods.php : 345] w1=Dienstag($line length=12)$line=117@Dienstag@Tuesday@@@20@2@0@1367249084005@1367249084005@2013-04-29 15:24:44 UTC@2013-04-29 15:24:44 UTC
+[03/31/2014 13:56:03 : app\Lib\utils\methods.php : 374] saved => Dienstag
+[03/31/2014 13:56:03 : app\Lib\utils\methods.php : 345] w1=bewertet($line length=12)$line=118@bewertet@rated@:v :past@@20@2@0@1367249201168@1367249201168@2013-04-29 15:26:41 UTC@2013-04-29 15:26:41 UTC
+[03/31/2014 13:56:03 : app\Lib\utils\methods.php : 374] saved => bewertet
+[03/31/2014 13:56:03 : app\Lib\utils\methods.php : 345] w1=Kreditwürdigkeit($line length=12)$line=119@Kreditwürdigkeit@credit-worthiness@@@20@2@0@1367249233012@1367249233012@2013-04-29 15:27:13 UTC@2013-04-29 15:27:13 UTC
+[03/31/2014 13:56:03 : app\Lib\utils\methods.php : 374] saved => Kreditwürdigkeit
+[03/31/2014 13:56:03 : app\Lib\utils\methods.php : 345] w1=zurzeit($line length=12)$line=120@zurzeit@currently@@@20@2@0@1367249253384@1367249253384@2013-04-29 15:27:33 UTC@2013-04-29 15:27:33 UTC
+[03/31/2014 13:56:03 : app\Lib\utils\methods.php : 374] saved => zurzeit
+[03/31/2014 13:56:03 : app\Lib\utils\methods.php : 345] w1=vierthöchst($line length=12)$line=121@vierthöchst@fourth-highest@@@20@2@0@1367249288896@1367249288896@2013-04-29 15:28:08 UTC@2013-04-29 15:28:08 UTC
+[03/31/2014 13:56:03 : app\Lib\utils\methods.php : 374] saved => vierthöchst
+[03/31/2014 13:56:03 : app\Lib\utils\methods.php : 345] w1=allerdings($line length=12)$line=122@allerdings@however@@@20@2@0@1367249316094@1367249316094@2013-04-29 15:28:36 UTC@2013-04-29 15:28:36 UTC
+[03/31/2014 13:56:03 : app\Lib\utils\methods.php : 374] saved => allerdings
+[03/31/2014 13:56:03 : app\Lib\utils\methods.php : 345] w1=Ausblick($line length=12)$line=123@Ausblick@outlook@@@20@2@0@1367249331515@1367249331515@2013-04-29 15:28:51 UTC@2013-04-29 15:28:51 UTC
+[03/31/2014 13:56:03 : app\Lib\utils\methods.php : 374] saved => Ausblick
+[03/31/2014 13:56:03 : app\Lib\utils\methods.php : 345] w1=Abstufung($line length=12)$line=124@Abstufung@gradation@@@20@2@0@1367249388238@1367249388238@2013-04-29 15:29:48 UTC@2013-04-29 15:29:48 UTC
+[03/31/2014 13:56:03 : app\Lib\utils\methods.php : 374] saved => Abstufung
+[03/31/2014 13:56:03 : app\Lib\utils\methods.php : 345] w1=传出($line length=12)$line=125@传出@伝える@chuan2chu1@@21@1@0@1367285932970@1367285932970@2013-04-30 01:38:52 UTC@2013-04-30 01:38:52 UTC
+[03/31/2014 13:56:03 : app\Lib\utils\methods.php : 374] saved => 传出
+[03/31/2014 13:56:03 : app\Lib\utils\methods.php : 345] w1=怀疑($line length=12)$line=126@怀疑@@huai2yi2@@21@1@0@1367286051256@1367286051256@2013-04-30 01:40:51 UTC@2013-04-30 01:40:51 UTC
+[03/31/2014 13:56:03 : app\Lib\utils\methods.php : 374] saved => 怀疑
+[03/31/2014 13:56:03 : app\Lib\utils\methods.php : 345] w1=不胫而走($line length=12)$line=127@不胫而走@飛ぶように売れる@bu4jing4er2zou3@@21@1@0@1367286108481@1367286108481@2013-04-30 01:41:48 UTC@2013-04-30 01:41:48 UTC
+[03/31/2014 13:56:03 : app\Lib\utils\methods.php : 374] saved => 不胫而走
+[03/31/2014 13:56:03 : app\Lib\utils\methods.php : 345] w1=迫使($line length=12)$line=128@迫使@@po4shi3@@21@1@0@1367286134034@1367286134034@2013-04-30 01:42:14 UTC@2013-04-30 01:42:14 UTC
+[03/31/2014 13:56:03 : app\Lib\utils\methods.php : 374] saved => 迫使
+[03/31/2014 13:56:03 : app\Lib\utils\methods.php : 345] w1=苏贞昌($line length=12)$line=129@苏贞昌@@Su1zhen1chang1@@21@1@0@1367286172412@1367286172412@2013-04-30 01:42:52 UTC@2013-04-30 01:42:52 UTC
+[03/31/2014 13:56:03 : app\Lib\utils\methods.php : 374] saved => 苏贞昌
+[03/31/2014 13:56:03 : app\Lib\utils\methods.php : 345] w1=澄清($line length=12)$line=130@澄清@clarify@cheng2qing1@@21@1@0@1367286200438@1367286200438@2013-04-30 01:43:20 UTC@2013-04-30 01:43:20 UTC
+[03/31/2014 13:56:03 : app\Lib\utils\methods.php : 374] saved => 澄清
+[03/31/2014 13:56:03 : app\Lib\utils\methods.php : 345] w1=时松时紧($line length=12)$line=131@时松时紧@@shi2song1shi2jin3@@21@1@0@1367286250593@1367286250593@2013-04-30 01:44:10 UTC@2013-04-30 01:44:10 UTC
+[03/31/2014 13:56:03 : app\Lib\utils\methods.php : 374] saved => 时松时紧
+[03/31/2014 13:56:03 : app\Lib\utils\methods.php : 345] w1=原则($line length=12)$line=132@原则@@yuan2ze2@@21@1@0@1367286270587@1367286270587@2013-04-30 01:44:30 UTC@2013-04-30 01:44:30 UTC
+[03/31/2014 13:56:03 : app\Lib\utils\methods.php : 374] saved => 原则
+[03/31/2014 13:56:03 : app\Lib\utils\methods.php : 345] w1=鉴于($line length=12)$line=133@鉴于@@jian4yu2@@21@1@0@1367286293255@1367286293255@2013-04-30 01:44:53 UTC@2013-04-30 01:44:53 UTC
+[03/31/2014 13:56:03 : app\Lib\utils\methods.php : 374] saved => 鉴于
+[03/31/2014 13:56:03 : app\Lib\utils\methods.php : 345] w1=审查($line length=12)$line=134@审查@@shen3cha2@@21@1@0@1367286325282@1367286325282@2013-04-30 01:45:25 UTC@2013-04-30 01:45:25 UTC
+[03/31/2014 13:56:03 : app\Lib\utils\methods.php : 374] saved => 审查
+[03/31/2014 13:56:03 : app\Lib\utils\methods.php : 345] w1=纲领($line length=12)$line=135@纲领@programme@gang1ling3@@21@1@0@1367286362050@1367286362050@2013-04-30 01:46:02 UTC@2013-04-30 01:46:02 UTC
+[03/31/2014 13:56:03 : app\Lib\utils\methods.php : 374] saved => 纲领
+[03/31/2014 13:56:03 : app\Lib\utils\methods.php : 345] w1=酶($line length=12)$line=136@酶@酵素@mei2@@22@1@0@1367286944344@1367286944344@2013-04-30 01:55:44 UTC@2013-04-30 01:55:44 UTC
+[03/31/2014 13:56:03 : app\Lib\utils\methods.php : 374] saved => 酶
+[03/31/2014 13:56:03 : app\Lib\utils\methods.php : 345] w1=hülflos($line length=12)$line=137@hülflos@helpless@@@23@2@0@1367289435717@1367289435717@2013-04-30 02:37:15 UTC@2013-04-30 02:37:15 UTC
+[03/31/2014 13:56:03 : app\Lib\utils\methods.php : 374] saved => hülflos
+[03/31/2014 13:56:03 : app\Lib\utils\methods.php : 345] w1=aussagen($line length=12)$line=138@aussagen@testify@@@23@2@0@1367289461175@1367289461175@2013-04-30 02:37:41 UTC@2013-04-30 02:37:41 UTC
+[03/31/2014 13:56:03 : app\Lib\utils\methods.php : 374] saved => aussagen
+[03/31/2014 13:56:03 : app\Lib\utils\methods.php : 345] w1=代葬($line length=12)$line=3842@代葬@-zang4@@@268@1@0@1394103619798@1394103619799@2014-03-06 11:00:19 UTC@2014-03-06 11:00:19 UTC
+[03/31/2014 13:56:03 : app\Lib\utils\methods.php : 374] saved => 代葬
+[03/31/2014 13:56:03 : app\Lib\utils\methods.php : 345] w1=überdenkt($line length=12)$line=78@überdenkt@reconsiders@:v.p3@@17@2@0@1367422315626@1367422315627@2013-04-29 02:18:12 UTC@2013-05-01 15:31:55 UTC
+[03/31/2014 13:56:03 : app\Lib\utils\methods.php : 374] saved => überdenkt
+[03/31/2014 13:56:03 : app\Lib\utils\methods.php : 345] w1=夏元芝($line length=12)$line=3843@夏元芝@--zhi1@@@268@1@0@1394103674430@1394103674430@2014-03-06 11:01:14 UTC@2014-03-06 11:01:14 UTC
+[03/31/2014 13:56:03 : app\Lib\utils\methods.php : 374] saved => 夏元芝
+[03/31/2014 13:56:03 : app\Lib\utils\methods.php : 345] w1=汉奸($line length=12)$line=3844@汉奸@-jian1@@@268@1@0@1394103707785@1394103707785@2014-03-06 11:01:47 UTC@2014-03-06 11:01:47 UTC
+[03/31/2014 13:56:03 : app\Lib\utils\methods.php : 374] saved => 汉奸
+[03/31/2014 13:56:03 : app\Lib\utils\methods.php : 345] w1=谴责($line length=12)$line=80@谴责@@qian3ze2@@18@1@0@1367228014071@1367228014071@2013-04-29 09:33:34 UTC@2013-04-29 09:33:34 UTC
+[03/31/2014 13:56:03 : app\Lib\utils\methods.php : 374] saved => 谴责
+[03/31/2014 13:56:03 : app\Lib\utils\methods.php : 345] w1=违反($line length=12)$line=81@违反@@wei2fan3@@18@1@0@1367228046696@1367228046696@2013-04-29 09:34:06 UTC@2013-04-29 09:34:06 UTC
+[03/31/2014 13:56:03 : app\Lib\utils\methods.php : 374] saved => 违反
+[03/31/2014 13:56:03 : app\Lib\utils\methods.php : 345] w1=清单($line length=12)$line=82@清单@目録@qing1dan1@@18@1@0@1367228130258@1367228130258@2013-04-29 09:35:30 UTC@2013-04-29 09:35:30 UTC
+[03/31/2014 13:56:03 : app\Lib\utils\methods.php : 374] saved => 清单
+[03/31/2014 13:56:03 : app\Lib\utils\methods.php : 345] w1=物项($line length=12)$line=83@物项@item@wu4xiang4@@18@1@0@1367228193617@1367228193617@2013-04-29 09:36:33 UTC@2013-04-29 09:36:33 UTC
+[03/31/2014 13:56:03 : app\Lib\utils\methods.php : 374] saved => 物项
+[03/31/2014 13:56:03 : app\Lib\utils\methods.php : 345] w1=游艇($line length=12)$line=84@游艇@yacht@you2ting3@@18@1@0@1367228220698@1367228220698@2013-04-29 09:37:00 UTC@2013-04-29 09:37:00 UTC
+[03/31/2014 13:56:03 : app\Lib\utils\methods.php : 374] saved => 游艇
+[03/31/2014 13:56:03 : app\Lib\utils\methods.php : 345] w1=豪华($line length=12)$line=85@豪华@@hao2hua2@@18@1@0@1367228242702@1367228242702@2013-04-29 09:37:22 UTC@2013-04-29 09:37:22 UTC
+[03/31/2014 13:56:03 : app\Lib\utils\methods.php : 374] saved => 豪华
+[03/31/2014 13:56:03 : app\Lib\utils\methods.php : 345] w1=珠宝($line length=12)$line=86@珠宝@jewelry@zhu1bao3@@18@1@0@1367228269852@1367228269852@2013-04-29 09:37:49 UTC@2013-04-29 09:37:49 UTC
+[03/31/2014 13:56:03 : app\Lib\utils\methods.php : 374] saved => 珠宝
+[03/31/2014 13:56:03 : app\Lib\utils\methods.php : 345] w1=奢侈($line length=12)$line=87@奢侈@@she1chi3@@18@1@0@1367228291946@1367228291946@2013-04-29 09:38:11 UTC@2013-04-29 09:38:11 UTC
+[03/31/2014 13:56:03 : app\Lib\utils\methods.php : 374] saved => 奢侈
+[03/31/2014 13:56:03 : app\Lib\utils\methods.php : 345] w1=及时($line length=12)$line=88@及时@immediately@ji2shi2@@18@1@0@1367228335966@1367228335967@2013-04-29 09:38:55 UTC@2013-04-29 09:38:55 UTC
+[03/31/2014 13:56:03 : app\Lib\utils\methods.php : 374] saved => 及时
+[03/31/2014 13:56:03 : app\Lib\utils\methods.php : 345] w1=维吾尔($line length=12)$line=89@维吾尔@@wei2wu2ei3@@19@1@0@1367231541944@1367231541944@2013-04-29 10:32:21 UTC@2013-04-29 10:32:21 UTC
+[03/31/2014 13:56:03 : app\Lib\utils\methods.php : 374] saved => 维吾尔
+[03/31/2014 13:56:03 : app\Lib\utils\methods.php : 345] w1=喀什($line length=12)$line=90@喀什@Kashi@ka1shen2@@19@1@0@1367231572859@1367231572859@2013-04-29 10:32:52 UTC@2013-04-29 10:32:52 UTC
+[03/31/2014 13:56:03 : app\Lib\utils\methods.php : 374] saved => 喀什
+[03/31/2014 13:56:03 : app\Lib\utils\methods.php : 345] w1=英勇($line length=12)$line=91@英勇@@ying1yong3@@19@1@0@1367231605288@1367231605289@2013-04-29 10:33:25 UTC@2013-04-29 10:33:25 UTC
+[03/31/2014 13:56:03 : app\Lib\utils\methods.php : 374] saved => 英勇
+[03/31/2014 13:56:03 : app\Lib\utils\methods.php : 345] w1=烈士($line length=12)$line=92@烈士@martyr@lie4shi4@@19@1@0@1367231632177@1367231632177@2013-04-29 10:33:52 UTC@2013-04-29 10:33:52 UTC
+[03/31/2014 13:56:03 : app\Lib\utils\methods.php : 374] saved => 烈士
+[03/31/2014 13:56:03 : app\Lib\utils\methods.php : 345] w1=追悼($line length=12)$line=93@追悼@memorial@zhui1dao4@@19@1@0@1367231672185@1367231672185@2013-04-29 10:34:32 UTC@2013-04-29 10:34:32 UTC
+[03/31/2014 13:56:03 : app\Lib\utils\methods.php : 374] saved => 追悼
+[03/31/2014 13:56:03 : app\Lib\utils\methods.php : 345] w1=默哀($line length=12)$line=94@默哀@@mo4ai1@@19@1@0@1367231713956@1367231713956@2013-04-29 10:35:13 UTC@2013-04-29 10:35:13 UTC
+[03/31/2014 13:56:03 : app\Lib\utils\methods.php : 374] saved => 默哀
+[03/31/2014 13:56:03 : app\Lib\utils\methods.php : 345] w1=鞠躬($line length=12)$line=95@鞠躬@bow@ju1gong1@@19@1@0@1367231732407@1367231732407@2013-04-29 10:35:32 UTC@2013-04-29 10:35:32 UTC
+[03/31/2014 13:56:03 : app\Lib\utils\methods.php : 374] saved => 鞠躬
+[03/31/2014 13:56:03 : app\Lib\utils\methods.php : 345] w1=悼念($line length=12)$line=96@悼念@@dao4nian4@@19@1@0@1367231764821@1367231764821@2013-04-29 10:36:04 UTC@2013-04-29 10:36:04 UTC
+[03/31/2014 13:56:03 : app\Lib\utils\methods.php : 374] saved => 悼念

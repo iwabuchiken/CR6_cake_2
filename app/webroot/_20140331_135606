@@ -1,0 +1,101 @@
+[03/31/2014 13:56:06 : app\Lib\utils\methods.php : 374] saved => 挫敗
+[03/31/2014 13:56:06 : app\Lib\utils\methods.php : 345] w1=字卡($line length=12)$line=377@字卡@@zi4ka3@@37@1@0@1368598616298@1368598616298@2013-05-15 06:16:56 UTC@2013-05-15 06:16:56 UTC
+[03/31/2014 13:56:06 : app\Lib\utils\methods.php : 374] saved => 字卡
+[03/31/2014 13:56:06 : app\Lib\utils\methods.php : 345] w1=桌面($line length=12)$line=378@桌面@desktop@zhuo1miam4@@37@1@0@1368598687587@1368598687587@2013-05-15 06:18:07 UTC@2013-05-15 06:18:07 UTC
+[03/31/2014 13:56:06 : app\Lib\utils\methods.php : 374] saved => 桌面
+[03/31/2014 13:56:06 : app\Lib\utils\methods.php : 345] w1=存取($line length=12)$line=379@存取@access@cun2qu3@@37@1@0@1368598719049@1368598719049@2013-05-15 06:18:39 UTC@2013-05-15 06:18:39 UTC
+[03/31/2014 13:56:06 : app\Lib\utils\methods.php : 374] saved => 存取
+[03/31/2014 13:56:06 : app\Lib\utils\methods.php : 345] w1=邏輯($line length=12)$line=380@邏輯@logic@luo2ji2@@37@1@0@1368598776871@1368598776871@2013-05-15 06:19:36 UTC@2013-05-15 06:19:36 UTC
+[03/31/2014 13:56:06 : app\Lib\utils\methods.php : 374] saved => 邏輯
+[03/31/2014 13:56:06 : app\Lib\utils\methods.php : 345] w1=脈絡($line length=12)$line=381@脈絡@context@mai4luo4@@37@1@0@1368598801443@1368598801443@2013-05-15 06:20:01 UTC@2013-05-15 06:20:01 UTC
+[03/31/2014 13:56:06 : app\Lib\utils\methods.php : 374] saved => 脈絡
+[03/31/2014 13:56:06 : app\Lib\utils\methods.php : 345] w1=字級($line length=12)$line=382@字級@font size@zi4ji2@@37@1@0@1368598866841@1368598866844@2013-05-15 06:21:06 UTC@2013-05-15 06:21:06 UTC
+[03/31/2014 13:56:06 : app\Lib\utils\methods.php : 374] saved => 字級
+[03/31/2014 13:56:06 : app\Lib\utils\methods.php : 345] w1=行距($line length=12)$line=383@行距@spacing@hang2ju4@@37@1@0@1368598898804@1368598898804@2013-05-15 06:21:38 UTC@2013-05-15 06:21:38 UTC
+[03/31/2014 13:56:06 : app\Lib\utils\methods.php : 374] saved => 行距
+[03/31/2014 13:56:06 : app\Lib\utils\methods.php : 345] w1=干擾($line length=12)$line=384@干擾@interference@gan1rao3@@37@1@0@1368598950601@1368598950601@2013-05-15 06:22:30 UTC@2013-05-15 06:22:30 UTC
+[03/31/2014 13:56:06 : app\Lib\utils\methods.php : 374] saved => 干擾
+[03/31/2014 13:56:06 : app\Lib\utils\methods.php : 345] w1=後排($line length=12)$line=385@後排@back row@hou4pai2@@37@1@0@1368599021369@1368599021369@2013-05-15 06:23:41 UTC@2013-05-15 06:23:41 UTC
+[03/31/2014 13:56:06 : app\Lib\utils\methods.php : 374] saved => 後排
+[03/31/2014 13:56:06 : app\Lib\utils\methods.php : 345] w1=行首($line length=12)$line=386@行首@beginning of the line@hang2shou3@@37@1@0@1368599070769@1368599070769@2013-05-15 06:24:30 UTC@2013-05-15 06:24:30 UTC
+[03/31/2014 13:56:06 : app\Lib\utils\methods.php : 374] saved => 行首
+[03/31/2014 13:56:06 : app\Lib\utils\methods.php : 345] w1=畫點($line length=12)$line=387@畫點@draw points@hua4dian3@@37@1@0@1368599103182@1368599103182@2013-05-15 06:25:03 UTC@2013-05-15 06:25:03 UTC
+[03/31/2014 13:56:06 : app\Lib\utils\methods.php : 374] saved => 畫點
+[03/31/2014 13:56:06 : app\Lib\utils\methods.php : 345] w1=標記($line length=12)$line=388@標記@mark@biao1ji4@@37@1@0@1368599125693@1368599125693@2013-05-15 06:25:25 UTC@2013-05-15 06:25:25 UTC
+[03/31/2014 13:56:06 : app\Lib\utils\methods.php : 374] saved => 標記
+[03/31/2014 13:56:06 : app\Lib\utils\methods.php : 345] w1=跳行($line length=12)$line=389@跳行@skip a line@tiao4hang2@@37@1@0@1368599167175@1368599167175@2013-05-15 06:26:07 UTC@2013-05-15 06:26:07 UTC
+[03/31/2014 13:56:06 : app\Lib\utils\methods.php : 374] saved => 跳行
+[03/31/2014 13:56:06 : app\Lib\utils\methods.php : 345] w1=핵심($line length=12)$line=390@핵심@important@haegsim@@48@7@0@1368676777864@1368676777864@2013-05-16 03:59:37 UTC@2013-05-16 03:59:37 UTC
+[03/31/2014 13:56:06 : app\Lib\utils\methods.php : 374] saved => 핵심
+[03/31/2014 13:56:06 : app\Lib\utils\methods.php : 345] w1=인물($line length=12)$line=391@인물@person@inmul@@48@7@0@1368676810328@1368676810328@2013-05-16 04:00:10 UTC@2013-05-16 04:00:10 UTC
+[03/31/2014 13:56:06 : app\Lib\utils\methods.php : 374] saved => 인물
+[03/31/2014 13:56:06 : app\Lib\utils\methods.php : 345] w1=구본무($line length=12)$line=392@구본무@@gubonmu@@48@7@0@1368676859569@1368676859569@2013-05-16 04:00:59 UTC@2013-05-16 04:00:59 UTC
+[03/31/2014 13:56:06 : app\Lib\utils\methods.php : 374] saved => 구본무
+[03/31/2014 13:56:06 : app\Lib\utils\methods.php : 345] w1=대표($line length=12)$line=393@대표@representation@daepyo@@48@7@0@1368676904201@1368676904201@2013-05-16 04:01:44 UTC@2013-05-16 04:01:44 UTC
+[03/31/2014 13:56:06 : app\Lib\utils\methods.php : 374] saved => 대표
+[03/31/2014 13:56:06 : app\Lib\utils\methods.php : 345] w1=이사($line length=12)$line=394@이사@director@isa@@48@7@0@1368676931190@1368676931190@2013-05-16 04:02:11 UTC@2013-05-16 04:02:11 UTC
+[03/31/2014 13:56:06 : app\Lib\utils\methods.php : 374] saved => 이사
+[03/31/2014 13:56:06 : app\Lib\utils\methods.php : 345] w1=회장($line length=12)$line=395@회장@@hoejang@@48@7@0@1368676961436@1368676961436@2013-05-16 04:02:41 UTC@2013-05-16 04:02:41 UTC
+[03/31/2014 13:56:06 : app\Lib\utils\methods.php : 374] saved => 회장
+[03/31/2014 13:56:06 : app\Lib\utils\methods.php : 345] w1=그룹($line length=12)$line=396@그룹@group@geulub@@48@7@0@1368677029964@1368677029964@2013-05-16 04:03:49 UTC@2013-05-16 04:03:49 UTC
+[03/31/2014 13:56:06 : app\Lib\utils\methods.php : 374] saved => 그룹
+[03/31/2014 13:56:06 : app\Lib\utils\methods.php : 345] w1=재벌($line length=12)$line=397@재벌@conglomerates@jaebeol@@48@7@0@1368677113933@1368677113933@2013-05-16 04:05:13 UTC@2013-05-16 04:05:13 UTC
+[03/31/2014 13:56:06 : app\Lib\utils\methods.php : 374] saved => 재벌
+[03/31/2014 13:56:06 : app\Lib\utils\methods.php : 345] w1=내포된($line length=12)$line=3845@내포된@内包された@@@264@7@0@1394169999152@1394169999152@2014-03-07 05:26:39 UTC@2014-03-07 05:26:39 UTC
+[03/31/2014 13:56:06 : app\Lib\utils\methods.php : 374] saved => 내포된
+[03/31/2014 13:56:06 : app\Lib\utils\methods.php : 345] w1=植物($line length=12)$line=410@植物@@zhi2wu4@@49@1@0@1368763757782@1368763757783@2013-05-17 04:09:17 UTC@2013-05-17 04:09:17 UTC
+[03/31/2014 13:56:06 : app\Lib\utils\methods.php : 374] saved => 植物
+[03/31/2014 13:56:06 : app\Lib\utils\methods.php : 345] w1=壁($line length=12)$line=411@壁@@bi4@@49@1@0@1368763780838@1368763780838@2013-05-17 04:09:40 UTC@2013-05-17 04:09:40 UTC
+[03/31/2014 13:56:06 : app\Lib\utils\methods.php : 374] saved => 壁
+[03/31/2014 13:56:06 : app\Lib\utils\methods.php : 345] w1=경영($line length=12)$line=398@경영@経営@gyeong-yeong@@48@7@0@1368677373751@1368677373752@2013-05-16 04:08:10 UTC@2013-05-16 04:09:33 UTC
+[03/31/2014 13:56:06 : app\Lib\utils\methods.php : 374] saved => 경영
+[03/31/2014 13:56:06 : app\Lib\utils\methods.php : 345] w1=缺少($line length=12)$line=412@缺少@@que1shao3@@49@1@0@1368763828738@1368763828738@2013-05-17 04:10:28 UTC@2013-05-17 04:10:28 UTC
+[03/31/2014 13:56:06 : app\Lib\utils\methods.php : 374] saved => 缺少
+[03/31/2014 13:56:06 : app\Lib\utils\methods.php : 345] w1=制备($line length=12)$line=413@制备@prepare@zhi4bei4@@50@1@0@1368976769767@1368976769768@2013-05-19 15:19:29 UTC@2013-05-19 15:19:29 UTC
+[03/31/2014 13:56:06 : app\Lib\utils\methods.php : 374] saved => 制备
+[03/31/2014 13:56:06 : app\Lib\utils\methods.php : 345] w1=聚合($line length=12)$line=414@聚合@polymerization@ju4he2@@50@1@0@1368976828415@1368976828415@2013-05-19 15:20:28 UTC@2013-05-19 15:20:28 UTC
+[03/31/2014 13:56:06 : app\Lib\utils\methods.php : 374] saved => 聚合
+[03/31/2014 13:56:06 : app\Lib\utils\methods.php : 345] w1=钴($line length=12)$line=415@钴@cobalt@gu3@@50@1@0@1368976872802@1368976872802@2013-05-19 15:21:12 UTC@2013-05-19 15:21:12 UTC
+[03/31/2014 13:56:06 : app\Lib\utils\methods.php : 374] saved => 钴
+[03/31/2014 13:56:06 : app\Lib\utils\methods.php : 345] w1=酞菁($line length=12)$line=416@酞菁@phthalocyanine@tai4jing1@@50@1@0@1368976909413@1368976909413@2013-05-19 15:21:49 UTC@2013-05-19 15:21:49 UTC
+[03/31/2014 13:56:06 : app\Lib\utils\methods.php : 374] saved => 酞菁
+[03/31/2014 13:56:06 : app\Lib\utils\methods.php : 345] w1=碳($line length=12)$line=417@碳@carbon@tan4@@50@1@0@1368976934710@1368976934710@2013-05-19 15:22:14 UTC@2013-05-19 15:22:14 UTC
+[03/31/2014 13:56:06 : app\Lib\utils\methods.php : 374] saved => 碳
+[03/31/2014 13:56:06 : app\Lib\utils\methods.php : 345] w1=纳米($line length=12)$line=418@纳米@nano@na4mi3@@50@1@0@1368976961226@1368976961226@2013-05-19 15:22:41 UTC@2013-05-19 15:22:41 UTC
+[03/31/2014 13:56:06 : app\Lib\utils\methods.php : 374] saved => 纳米
+[03/31/2014 13:56:06 : app\Lib\utils\methods.php : 345] w1=复合($line length=12)$line=419@复合@complex@fu4he2@@50@1@0@1368976987852@1368976987852@2013-05-19 15:23:07 UTC@2013-05-19 15:23:07 UTC
+[03/31/2014 13:56:06 : app\Lib\utils\methods.php : 374] saved => 复合
+[03/31/2014 13:56:06 : app\Lib\utils\methods.php : 345] w1=紫外($line length=12)$line=420@紫外@UV@zi3wai4@@50@1@0@1368977016656@1368977016656@2013-05-19 15:23:36 UTC@2013-05-19 15:23:36 UTC
+[03/31/2014 13:56:06 : app\Lib\utils\methods.php : 374] saved => 紫外
+[03/31/2014 13:56:06 : app\Lib\utils\methods.php : 345] w1=光谱($line length=12)$line=421@光谱@spectrum@guang1pu3@@50@1@0@1368977044958@1368977044958@2013-05-19 15:24:04 UTC@2013-05-19 15:24:04 UTC
+[03/31/2014 13:56:06 : app\Lib\utils\methods.php : 374] saved => 光谱
+[03/31/2014 13:56:06 : app\Lib\utils\methods.php : 345] w1=분가한($line length=12)$line=400@분가한@分家した@bungahan@@48@7@0@1368679060601@1368679060601@2013-05-16 04:37:40 UTC@2013-05-16 04:37:40 UTC
+[03/31/2014 13:56:06 : app\Lib\utils\methods.php : 374] saved => 분가한
+[03/31/2014 13:56:06 : app\Lib\utils\methods.php : 345] w1=상태다($line length=12)$line=401@상태다@状態だ@sangtaeda@@48@7@0@1368679100518@1368679100518@2013-05-16 04:38:20 UTC@2013-05-16 04:38:20 UTC
+[03/31/2014 13:56:06 : app\Lib\utils\methods.php : 374] saved => 상태다
+[03/31/2014 13:56:06 : app\Lib\utils\methods.php : 345] w1=数目($line length=12)$line=402@数目@number@shu4mu4@@49@1@0@1368763378101@1368763378101@2013-05-17 04:02:58 UTC@2013-05-17 04:02:58 UTC
+[03/31/2014 13:56:06 : app\Lib\utils\methods.php : 374] saved => 数目
+[03/31/2014 13:56:06 : app\Lib\utils\methods.php : 345] w1=备份($line length=12)$line=403@备份@backup@bei4fen4@@49@1@0@1368763431878@1368763431878@2013-05-17 04:03:51 UTC@2013-05-17 04:03:51 UTC
+[03/31/2014 13:56:06 : app\Lib\utils\methods.php : 374] saved => 备份
+[03/31/2014 13:56:06 : app\Lib\utils\methods.php : 345] w1=着丝粒($line length=12)$line=404@着丝粒@centromere@zhuo2si1li4@@49@1@0@1368763503853@1368763503853@2013-05-17 04:05:03 UTC@2013-05-17 04:05:03 UTC
+[03/31/2014 13:56:06 : app\Lib\utils\methods.php : 374] saved => 着丝粒
+[03/31/2014 13:56:06 : app\Lib\utils\methods.php : 345] w1=赤道板($line length=12)$line=405@赤道板@equatorial@chi4dao4ban3@@49@1@0@1368763562328@1368763562328@2013-05-17 04:06:02 UTC@2013-05-17 04:06:02 UTC
+[03/31/2014 13:56:06 : app\Lib\utils\methods.php : 374] saved => 赤道板
+[03/31/2014 13:56:06 : app\Lib\utils\methods.php : 345] w1=收缩($line length=12)$line=406@收缩@@shou1suo1@@49@1@0@1368763592658@1368763592658@2013-05-17 04:06:32 UTC@2013-05-17 04:06:32 UTC
+[03/31/2014 13:56:06 : app\Lib\utils\methods.php : 374] saved => 收缩
+[03/31/2014 13:56:06 : app\Lib\utils\methods.php : 345] w1=沟($line length=12)$line=407@沟@ditch@gou1@@49@1@0@1368763683899@1368763683899@2013-05-17 04:08:03 UTC@2013-05-17 04:08:03 UTC
+[03/31/2014 13:56:06 : app\Lib\utils\methods.php : 374] saved => 沟
+[03/31/2014 13:56:06 : app\Lib\utils\methods.php : 345] w1=附近($line length=12)$line=408@附近@@fu4jin4@@49@1@0@1368763707903@1368763707903@2013-05-17 04:08:27 UTC@2013-05-17 04:08:27 UTC
+[03/31/2014 13:56:06 : app\Lib\utils\methods.php : 374] saved => 附近
+[03/31/2014 13:56:06 : app\Lib\utils\methods.php : 345] w1=缢裂($line length=12)$line=409@缢裂@crack@yi4lie4@@49@1@0@1368763732277@1368763732277@2013-05-17 04:08:52 UTC@2013-05-17 04:08:52 UTC
+[03/31/2014 13:56:06 : app\Lib\utils\methods.php : 374] saved => 缢裂
+[03/31/2014 13:56:06 : app\Lib\utils\methods.php : 345] w1=透射($line length=12)$line=422@透射@transmission@tou4she4@@50@1@0@1368977077237@1368977077237@2013-05-19 15:24:37 UTC@2013-05-19 15:24:37 UTC
+[03/31/2014 13:56:06 : app\Lib\utils\methods.php : 374] saved => 透射
+[03/31/2014 13:56:06 : app\Lib\utils\methods.php : 345] w1=表征($line length=12)$line=423@表征@characterization@biao3zheng1@@50@1@0@1368977431452@1368977431452@2013-05-19 15:30:31 UTC@2013-05-19 15:30:31 UTC
+[03/31/2014 13:56:06 : app\Lib\utils\methods.php : 374] saved => 表征
+[03/31/2014 13:56:06 : app\Lib\utils\methods.php : 345] w1=包裹($line length=12)$line=424@包裹@package@bao1guo3@@50@1@0@1368977480685@1368977480685@2013-05-19 15:31:20 UTC@2013-05-19 15:31:20 UTC
+[03/31/2014 13:56:06 : app\Lib\utils\methods.php : 374] saved => 包裹
+[03/31/2014 13:56:06 : app\Lib\utils\methods.php : 345] w1=厚度($line length=12)$line=425@厚度@thichkness@hou4du4@@50@1@0@1368977519365@1368977519365@2013-05-19 15:31:59 UTC@2013-05-19 15:31:59 UTC
+[03/31/2014 13:56:06 : app\Lib\utils\methods.php : 374] saved => 厚度
+[03/31/2014 13:56:06 : app\Lib\utils\methods.php : 345] w1=均匀($line length=12)$line=426@均匀@uniform@jun1yun2@@50@1@0@1368977557231@1368977557231@2013-05-19 15:32:37 UTC@2013-05-19 15:32:37 UTC
+[03/31/2014 13:56:06 : app\Lib\utils\methods.php : 374] saved => 均匀
