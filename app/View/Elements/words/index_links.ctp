@@ -11,10 +11,31 @@
 					'Add Word',
 					array('controller' => 'words', 'action' => 'add'),
 					array(
-							'style'	=> 'color: blue')
+// 							'style'	=> 'color: blue'
+							'class'		=> 'link_word'
+					)
 	
 				);
 	?>
+	
+	|
+	
+	<?php echo $this->Html->link(
+					'Edit Word',
+					array(
+							'controller' => 'words', 
+							'action' => 'edit', 
+							$word['Word']['id']
+					),
+
+					array(
+// 							'style'	=> 'color: blue'
+							'class'		=> 'link_word'
+					)
+	
+				);
+	?>
+	
 	<br>
 	<br>
 	
@@ -58,13 +79,13 @@
 	<?php 
 		echo " | "; ?>
 	
-	<?php echo $this->Html->link(
-					'Swap w2 with w3',
-					array(
-						'controller' => 'words',
-						'action' => 'swap_w2_w3',
-						'?' => $query_String)
-					);
+	<?php //echo $this->Html->link(
+// 					'Swap w2 with w3',
+// 					array(
+// 						'controller' => 'words',
+// 						'action' => 'swap_w2_w3',
+// 						'?' => $query_String)
+// 					);
 	?>	
 
 	<br>

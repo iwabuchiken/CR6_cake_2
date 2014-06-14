@@ -7,6 +7,14 @@ class Word extends AppModel {
 
 	var $belongsTo = 'Lang';
 
+	public $validate = array(
+			'w1' => array(
+					'rule'		=> 'isUnique',
+					'message'	=> 'This word already exists'
+			)
+	);
+	
+	
 	//REF http://book.cakephp.org/2.0/en/models/associations-linking-models-together.html
 	// 	public $hasMany = 'Text';
 

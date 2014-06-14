@@ -980,7 +980,9 @@ class WordsController extends AppController {
 			}
 			
 			$this->Session->setFlash(__('Unable to add your post.'));
-		} else {//if ($this->request->is('post'))
+		}
+		
+// 		} else {//if ($this->request->is('post'))
 			
 			$this->loadModel('Lang');
 			
@@ -1006,7 +1008,7 @@ class WordsController extends AppController {
 			
 			$this->set('select_Langs', $select_Langs);
 			
-		}//if ($this->request->is('post'))
+// 		}//if ($this->request->is('post'))
 		
 	}//public function add()
 	
@@ -1896,7 +1898,7 @@ class WordsController extends AppController {
 
 	public function view($id) {
 		if (!$id) {
-			throw new NotFoundException(__('Invalid post'));
+			throw new NotFoundException(__('Invalid word'));
 		}
 	
 		$word = $this->Word->findById($id);
@@ -1904,6 +1906,8 @@ class WordsController extends AppController {
 			throw new NotFoundException(__('Invalid word'));
 		}
 	
+// 		debug($word);
+		
 // 		$word = $this->_view_ModifyText($word);
 	
 		//         $temp = $text['Text']['text'];
@@ -1983,6 +1987,78 @@ class WordsController extends AppController {
 					));
 		
 	}//public function swap_w2_w3()
+	
+	public function edit($id = null) {
+		
+		if (!$id) {
+			throw new NotFoundException(__('Invalid word'));
+		}
+		
+		$word = $this->Word->findById($id);
+		if (!$word) {
+			throw new NotFoundException(__('Invalid word'));
+		}
+		
+		/******************************
+		
+			Save word
+		
+		******************************/
+// 		debug($this->request);
+		
+// 		if ($this->request->is(array('post', 'put'))) {
+			$this->Word->id = $id;
+			
+			if ($this->Word->save($this->request->data)) {
+				$this->Session->setFlash(__('Your word has been updated.'));
+				return $this->redirect(array('action' => 'view', $id));
+// 				return $this->redirect(array('action' => 'index'));
+			}
+			
+			$this->Session->setFlash(__('Unable to update your word.'));
+			
+// 		} else {
+			
+// 			debug("\$this->request->is(array('post', 'put')) ==> false");
+			
+// 		}
+
+		/******************************
+		
+			Update word
+		
+		******************************/
+		$this->loadModel('Lang');
+			
+		$langs = $this->Lang->find('all');
+		
+		$select_Langs = array();
+			
+		foreach ($langs as $lang) {
+		
+			$lang_Name = $lang['Lang']['name'];
+			$lang_Id = $lang['Lang']['id'];
+		
+			$select_Langs[$lang_Id] = $lang_Name;
+				
+		}
+			
+		// 			debug($select_Langs);
+			
+		//REF http://www.php.net/manual/en/function.asort.php
+		asort($select_Langs);
+			
+		$this->set('select_Langs', $select_Langs);
+		
+// 		$this->set('word', $word);
+		
+		
+		
+		if (!$this->request->data) {
+			$this->request->data = $word;
+		}
+		
+	}//public function edit($id = null)
 	
 }//class WordsController extends AppController
 

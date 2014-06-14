@@ -15,14 +15,43 @@
 <br>
 <br>
 
-<?php debug($word); ?>
+<?php //debug($word); ?>
 
 <a id="bottom"></a>
 <a href="#top">Top</a>
 
+<table>
+  <tr>
+  	<td class="words_view_table_label">ID</td>
+    <td class="words_view_table_values"><?php echo $word['Word']['id']?></td>
+    
+  </tr>
+  
+  <tr>
+  	<td class="words_view_table_label">w1</td>
+    <td class="words_view_table_values"><?php echo $word['Word']['w1']?></td>
+    
+  </tr>
+  
+  <tr>
+  	<td class="words_view_table_label">w2</td>
+    <td class="words_view_table_values"><?php echo $word['Word']['w2']?></td>
+    
+  </tr>
+  
+  <tr>
+  	<td class="words_view_table_label">w3</td>
+    <td class="words_view_table_values"><?php echo $word['Word']['w3']?></td>
+    
+  </tr>
+  
+</table>
+
+
+
 <br><br>
 
-	<?php echo $this->element('texts/index_links')?>
+	<?php echo $this->element('words/index_links')?>
 	
 	<br>
 	<br>
