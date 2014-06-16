@@ -1319,8 +1319,12 @@ class TextsController extends AppController {
 // 		debug($this->request);
 		
 // 		if ($this->request->is(array('text', 'put'))) {
+		if (count($this->params->data) != 0) {
 			
 			$this->Text->id = $id;
+			
+			$this->params->data['Text']['updated_at'] =
+					Utils::get_CurrentTime2(CONS::$timeLabelTypes["rails"]);
 			
 			if ($this->Text->save($this->request->data)) {
 				
@@ -1334,6 +1338,8 @@ class TextsController extends AppController {
 			
 			$this->Session->setFlash(__('Unable to update your text.'));
 			
+		}
+		
 // 		} else {
 	
 // 			$this->Session->setFlash(__(

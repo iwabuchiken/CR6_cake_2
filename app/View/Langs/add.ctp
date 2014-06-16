@@ -10,7 +10,14 @@ echo $this->Form->end('Save lang');
 
 <br>
 
-<?php echo $this->Html->link(
+<?php 
+	
+// 	$page_num 
+	
+	echo $this->Html->link(
     'Back to list',
-    array('controller' => 'langs', 'action' => 'index')
-); ?>
+    array(
+			'controller' => 'langs',
+			'action' => 'index')
+	); 
+?>

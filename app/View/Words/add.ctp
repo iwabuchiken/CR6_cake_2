@@ -55,7 +55,30 @@ echo $this->Form->end('Add word');
 
 <br>
 
-<?php echo $this->Html->link(
-    'Back to list',
-    array('controller' => 'words', 'action' => 'index')
+<?php 
+
+// 	$div = $word['Word']['id'] / 10;
+// 	$resi = $word['Word']['id'] % 10;
+	
+// 	if ($resi == 0) {
+	
+// 		$page_num = $div;
+			
+// 	} else {
+	
+// 		$page_num = $div + 1;
+	
+// 	}
+
+
+// 	$page_num = 
+
+	echo $this->Html->link(
+	    'Back to list',
+	    array(
+				'controller' => 'words', 
+				'action' => 'index',
+				'?' => "page=1&per_Page=10"
+// 				'?' => "page=$page_num&per_Page=10"
+	)
 ); ?>

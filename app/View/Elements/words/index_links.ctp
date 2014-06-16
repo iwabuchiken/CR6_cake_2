@@ -1,3 +1,4 @@
+<!-- Elements\words\index_links.ctp -->
 
 	<a href="http://benfranklin.chips.jp/cake_apps/CR6_cake/langs/index"
 		target="_blank">
@@ -17,24 +18,48 @@
 	
 				);
 	?>
+		
+	<?php if($this->params->action != "index") { ?>
+	
+		|
+		
+		<?php echo $this->Html->link(
+						'Edit Word',
+						array(
+								'controller' => 'words', 
+								'action' => 'edit', 
+								$word['Word']['id']
+						),
+	
+						array(
+	// 							'style'	=> 'color: blue'
+								'class'		=> 'link_word'
+						)
+		
+					);
+		?>
 	
 	|
 	
-	<?php echo $this->Html->link(
-					'Edit Word',
-					array(
-							'controller' => 'words', 
-							'action' => 'edit', 
-							$word['Word']['id']
-					),
-
-					array(
-// 							'style'	=> 'color: blue'
-							'class'		=> 'link_word'
-					)
+		<?php echo $this->Html->link(
+						'Delete Word',
+						array(
+								'controller' => 'words', 
+								'action' => 'delete', 
+								$word['Word']['id']
+						),
 	
-				);
-	?>
+						array(
+	// 							'style'	=> 'color: blue'
+								'class'		=> 'link_word_alert'
+						),
+						//REF http://stackoverflow.com/questions/22519966/cakephp-delete-confirmation answered Mar 19 at 23:18
+						__("Delete? => %s", $word['Word']['w1'])
+		
+					);
+		?>
+	
+	<?php } ?>
 	
 	<br>
 	<br>
