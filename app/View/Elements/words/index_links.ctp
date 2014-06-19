@@ -64,99 +64,108 @@
 	<br>
 	<br>
 	
-	<?php echo $this->Html->link(
+	<div class="hidden_elements">
+		<button id="bt_texts_special_ops" class="generic_bt_1">
+				Special ops
+		</button>
+		<br>
+		<div id="texts_special_ops" style="display: none">
+			<?php echo $this->Html->link(
 					'Build words from csv (1)',
 					array('controller' => 'words', 'action' => 'build_Words_1'));
-	?>	
-
-	<br>
-	
-	<?php echo $this->Html->link(
-					'Build words from csv (2)',
-					array('controller' => 'words', 'action' => 'build_Words_2'));
-	?>	
-
-	<br>
-	<?php echo $this->Html->link(
-					'Build words from csv (3)',
-					array('controller' => 'words', 'action' => 'build_Words_3'));
-	?>	
-	
-	<br>
-	<?php echo $this->Html->link(
-					'Build words from csv (4)',
-					array('controller' => 'words', 'action' => 'build_Words_4'));
-	?>	
-
-	<br>
-	<br>
-	
-	<!-- REF confirm http://book.cakephp.org/2.0/en/core-libraries/helpers/html.html -->
-	<?php echo $this->Html->link(
-					'Delete all words',
-					array(
-						'controller' => 'words',
-						'action' => 'delete_all'),
-					array(),
-					"Delete all?");
-	?>	
-	
-	<?php 
-		echo " | "; ?>
-	
-	<?php //echo $this->Html->link(
-// 					'Swap w2 with w3',
-// 					array(
-// 						'controller' => 'words',
-// 						'action' => 'swap_w2_w3',
-// 						'?' => $query_String)
-// 					);
-	?>	
-
-	<br>
-	<br>
-	
-	<?php 
-// 		$cons = new CONS();
+			?>	
 		
-// 		$host_name = $cons->get_HostName();
-	
-// 		if ($host_name != null && $host_name == $cons->local_HostName) {
-		
-			echo $this->Html->link(
-					'Recreate table',
-					array(
-						'controller' => 'words',
-						'action' => 'recreate_Table')
-					);
+			<br>
 			
+			<?php echo $this->Html->link(
+							'Build words from csv (2)',
+							array('controller' => 'words', 'action' => 'build_Words_2'));
+			?>	
 		
-// 		} else {
+			<br>
+			<?php echo $this->Html->link(
+							'Build words from csv (3)',
+							array('controller' => 'words', 'action' => 'build_Words_3'));
+			?>	
+			
+			<br>
+			<?php echo $this->Html->link(
+							'Build words from csv (4)',
+							array('controller' => 'words', 'action' => 'build_Words_4'));
+			?>	
 		
-// 			echo "NOT A LOCALHOST";
-
-// 		}
-	?>	
-	
-	<?php 
-	
-		echo " | ";
-	
-		echo "Update lang_id values: ";
-		
-		for($i = 1; $i <= 4; $i++) {
-
-			echo $this->Html->link(
-						"Lot $i / ",
-// 						'Lot 1',
-						array(
+			<br>
+			<br>
+			
+			<!-- REF confirm http://book.cakephp.org/2.0/en/core-libraries/helpers/html.html -->
+			<?php echo $this->Html->link(
+							'Delete all words',
+							array(
 								'controller' => 'words',
-								'action' => 'update_RailsID',
-								$i)
-			);
+								'action' => 'delete_all'),
+							array(),
+							"Delete all?");
+			?>	
+			
+			<?php 
+				echo " | "; ?>
+			
+			<?php //echo $this->Html->link(
+		// 					'Swap w2 with w3',
+		// 					array(
+		// 						'controller' => 'words',
+		// 						'action' => 'swap_w2_w3',
+		// 						'?' => $query_String)
+		// 					);
+			?>	
+		
+			<br>
+			<br>
+			
+			<?php 
+		// 		$cons = new CONS();
+				
+		// 		$host_name = $cons->get_HostName();
+			
+		// 		if ($host_name != null && $host_name == $cons->local_HostName) {
+				
+					echo $this->Html->link(
+							'Recreate table',
+							array(
+								'controller' => 'words',
+								'action' => 'recreate_Table')
+							);
+					
+				
+		// 		} else {
+				
+		// 			echo "NOT A LOCALHOST";
+		
+		// 		}
+			?>	
+			
+			<?php 
+			
+				echo " | ";
+			
+				echo "Update lang_id values: ";
+				
+				for($i = 1; $i <= 4; $i++) {
+		
+					echo $this->Html->link(
+								"Lot $i / ",
+		// 						'Lot 1',
+								array(
+										'controller' => 'words',
+										'action' => 'update_RailsID',
+										$i)
+					);
+		
+				}//for($i = 1; $i <= 4; $i++)
+			
+			?>
+		</div><!-- <div id="texts_special_ops" style="display: none"> -->
+	</div><!-- <div class="hidden_elements"> -->
 
-		}//for($i = 1; $i <= 4; $i++)
-	
-	?>
 
 	

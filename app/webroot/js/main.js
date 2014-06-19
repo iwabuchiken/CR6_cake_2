@@ -14,9 +14,39 @@
 //	
 //}
 
+function specials_text() {
+	
+//	alert("special: button");
+	
+	//REF http://stackoverflow.com/questions/2001366/jquery-change-text-color-is-there-a-code-for-this answered Jan 4 '10 at 18:52
+//	$("#bt_texts_special_ops").css('color', 'yellow');
+	
+	//REF http://stackoverflow.com/questions/10314338/get-name-of-object-or-class-in-javascript answered Nov 21 '13 at 13:27
+//	alert($("#texts_special_ops").css('display').constructor.name);
+//	alert($("#texts_special_ops").css('display'));
+//	alert("special: button");
+	
+	var type = $("#texts_special_ops").css('display');
+	
+	if (type == 'none') {
+		
+		$("#texts_special_ops").css('display', 'inline');
+		
+	} else {
+		
+		$("#texts_special_ops").css('display', 'none');
+
+	}
+}
+
 $(document).ready(function(){
 	
 //	alert("jquery ready");
+	
+//	specials_text();
+//	$("#texts_special_ops").click(specials_text());
+	
+	$("#bt_texts_special_ops").click(specials_text);
 	
   $("#show_button").click(function(){
 	  
