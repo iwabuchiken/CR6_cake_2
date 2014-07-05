@@ -45,115 +45,21 @@ class TextsController extends AppController {
 	
 	public function index() {
 
-// 		write_Log(
-// 			$this->path_Log,
-// 			"\$abc => $abc",
-// 			__FILE__,
-// 			__LINE__);
 		
+// 		$this->set('texts', $this->Text->find('all'));
+		$this->set('texts', $this->Text->find(
+					'all', 
+					array(
+			        	'order' => array(
+			        				'Text.updated_at' => 'desc')
+			    )));
 		
-// 		//debug
-// 		if ($this->request->is('post')) {
-			
-// 			write_Log(
-// 				$this->path_Log,
-// 				"is post",
-// 				__FILE__,
-// 				__LINE__);
-			
-// 		} else {
-			
-// 			write_Log(
-// 				$this->path_Log,
-// 				"is not post",
-// 				__FILE__,
-// 				__LINE__);
-			
-// 		}
-		
-		//debug
-// 		$this->set('data', $this->params['url']['abc']);
-// 		$this->set('data', $this->request->data);
-// 		$this->set('data', $this->request->data['Text']);
-		
-// 		write_Log(
-// 			$this->path_Log,
-// 			implode(",", array_keys($this->request->data)),
-// 			__FILE__,
-// 			__LINE__);
-		
-// 		write_Log(
-// 			$this->path_Log,
-// 			implode(",", array_keys($this->request->xxx)),
-// 			__FILE__,
-// 			__LINE__);
-		
-		
-// 		debug($this->request->data);
-		
-// 		debug($this->request->data);
-// 		debug($this->params['url']['abc']);
-// 		$this->set('data', $this->request->data['Text']);
-// 		$this->set('params', $this->request->params);
-// 		if ($this->request->params) {
-// // 		if ($this->request->params['abc']) {
-		
-// 			write_Log(
-// 				$this->path_Log,
-// 				"params => ".implode(",", $this->request->params),
-// // 				"params => ".$this->request->params['abc'],
-// 				__FILE__,
-// 				__LINE__);
-			
-		
-// 		} else {
-			
-// 			write_Log(
-// 				$this->path_Log,
-// 				"params => no",
-// 				__FILE__,
-// 				__LINE__);
-			
-		
-// 		}
-		
-		$this->set('texts', $this->Text->find('all'));
-		
-		$this->_index__Experiments();
+// 		$this->_index__Experiments();
 
 		
-// 		//debug
-// 		$texts = $this->Text->find('all');
+// 		$text = "index() => starts";
 		
-// 		debug($texts[0]);
-		
-// 		write_Log(
-// 			$this->path_Log,
-// 			"class => ".$texts[0]['Text']['text'],
-// // 			"class => ".get_class($texts[0]),
-// // 			"class => ".get_class($texts),
-// // 			"class => ".get_class($this->Text->find('all')[0]),	// get_class() expects parameter 1 to be object, array given
-// // 			"class => ".get_class($this->Text->find('all')),	// get_class() expects parameter 1 to be object, array given
-// // 			"class => ".get_class($this->Text->find('all')),
-// // 			"class => ".get_class(($this->Text->find('all')[0])),
-// 			__FILE__,
-// 			__LINE__);
-		
-// 		$this->Text->create();
-		
-// 		$text = $this->Text->create();
-		
-// 		$text->set('text', "bbbbbbb");
-		
-// 		$this->_Setup_Paths();
-		
-// 		$text = "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa".
-// 				"aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa".
-// 				"aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa";
-		
-		$text = "index() => starts";
-		
-		write_Log($this->path_Log, $text, __FILE__, __LINE__);
+// 		write_Log($this->path_Log, $text, __FILE__, __LINE__);
 		
 // 		$this->_Setup_LogFile();
 		

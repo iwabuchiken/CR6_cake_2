@@ -49,25 +49,13 @@ $cakeDescription = __d('cake_dev', 'CakePHP: the rapid development php framework
 		echo $this->fetch('script');
 	?>
 	
-	<?php //echo $this->Html->script("http://code.jquery.com/jquery-2.1.0.min.js"); ?>
-	<?php //echo $this->Html->script("jquery-1.4.2.min"); ?>
-	<?php //echo $this->Js->link("jquery-1.4.2.min"); ?>
-	<?php //echo $Js->link("jquery-1.4.2.min"); ?>
-	<?php //echo $js->link("jquery-1.4.2.min"); ?>
-	<?php //echo $javascript->link("jquery-1.4.2.min"); ?>
-	<?php //echo $this->js->link('jquery'); ?>
-	
-	<?php //echo $this->Js->writeBuffer(); ?>
-	
 </head>
 <body>
 
 	<?php echo $this->Js->writeBuffer(); ?>
 
 	<div id="container">
-		<div id="header">
-			<h1><?php echo $this->Html->link($cakeDescription, 'http://cakephp.org'); ?></h1>
-		</div>
+	
 		<div id="content">
 
 			<?php echo $this->Session->flash(); ?>
@@ -78,22 +66,9 @@ $cakeDescription = __d('cake_dev', 'CakePHP: the rapid development php framework
 		<?php echo $this->element('texts/index_log')?>
 		
 		<br>
-		<div id="ajax_area">
 		
-			Log
-		
-		</div>
-		
-		<div id="footer">
-			<?php echo $this->Html->link(
-					$this->Html->image('cake.power.gif', array('alt' => $cakeDescription, 'border' => '0')),
-					'http://www.cakephp.org/',
-					array('target' => '_blank', 'escape' => false)
-				);
-			?>
-		</div>
 	</div>
 	
-	<?php echo $this->element('sql_dump'); ?>
+	<?php //echo $this->element('sql_dump'); ?>
 </body>
 </html>

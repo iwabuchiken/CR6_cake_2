@@ -1,6 +1,3 @@
-<br>
-<br>
-	
 	<?php 
 		
 		echo $this->Html->link(
@@ -8,12 +5,12 @@
 				array(
 					'controller' => 'texts',
 					'action' => 'index')
+				,
+				array('class' => 'button')
 				);
 			
 	?>	
 
-	<?php echo " | "; ?>
-	
 	<?php 
 		
 		echo $this->Html->link(
@@ -21,11 +18,13 @@
 				array(
 					'controller' => 'langs',
 					'action' => 'index')
+				,
+				array('class' => 'button')
 				);
 			
 	?>	
 
-	<?php echo " | "; ?>
+	<?php //echo " | "; ?>
 	
 	<?php 
 		
@@ -57,6 +56,9 @@
 						'action' => 'index',
 						'?' => "page=$page_Num&per_Page=10")
 // 						'?' => "page=2&per_Page=10")
+					,
+					array('class' => 'button')
+
 					);
 			
 		} else {
@@ -67,6 +69,8 @@
 						'controller' => 'words',
 						'action' => 'index',
 						'?' => "page=1&per_Page=10")
+					,
+					array('class' => 'button')
 					);
 		
 		}
@@ -75,7 +79,7 @@
 			
 	?>	
 	
-	<?php echo " | "; ?>
+	<?php //echo " | "; ?>
 	
 	<?php 
 		
